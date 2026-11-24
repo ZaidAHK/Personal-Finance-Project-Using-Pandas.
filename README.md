@@ -18,7 +18,6 @@ A Pandas-only personal finance analysis project using `personal_finance.csv`.
 - pandas
 
 ## Files
-- `Pandas_PR1_GitHub_Refined.ipynb`
-- `Pandas_PR1_GitHub_Refined.pdf`
-
+- `Pandas_personal-finanace.ipynb`
+- `personal_finance.csv`
 > Visualization is intentionally not included in this project.
