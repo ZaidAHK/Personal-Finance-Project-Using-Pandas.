@@ -1,0 +1,1801 @@
+transaction_id,date,account_type,transaction_type,category,amount_inr,payment_channel,city,essential
+TXN00001,2025-07-16,UPI Wallet,Expense,Shopping,7915.06,Cash,Mumbai,False
+TXN00002,2025-07-22,UPI Wallet,Expense,Groceries,1281.71,UPI,Delhi,True
+TXN00003,2025-06-19,Cash,Expense,Subscriptions,593.02,Card,Other,False
+TXN00004,2025-09-19,UPI Wallet,Expense,Utilities,2861.35,Bank Transfer,Hyderabad,True
+TXN00005,2024-03-31,Credit Card,Expense,Dining,447.25,Card,Bengaluru,False
+TXN00006,2024-01-16,Bank,Expense,Education,11815.4,UPI,Bengaluru,True
+TXN00007,2024-11-04,Credit Card,Expense,Utilities,844.67,Card,Delhi,True
+TXN00008,2024-08-13,Cash,Expense,Subscriptions,994.86,Cash,Pune,False
+TXN00009,2025-08-05,Bank,Expense,Transport,403.05,UPI,Mumbai,True
+TXN00010,2024-08-09,UPI Wallet,Expense,Travel,11494.02,Auto-debit,Mumbai,False
+TXN00011,2024-11-29,Credit Card,Expense,Travel,19412.65,Auto-debit,Delhi,False
+TXN00012,2024-07-08,UPI Wallet,Expense,Education,7691.21,Bank Transfer,Hyderabad,True
+TXN00013,2025-09-01,UPI Wallet,Expense,Utilities,2478.79,UPI,Pune,True
+TXN00014,2024-11-15,Bank,Expense,Education,3546.43,Auto-debit,Delhi,True
+TXN00015,2025-04-25,Bank,Expense,Healthcare,1305.12,Auto-debit,Mumbai,True
+TXN00016,2024-10-29,UPI Wallet,Income,Freelance,56685.24,UPI,Delhi,False
+TXN00017,2025-06-10,UPI Wallet,Expense,Groceries,3624.47,Auto-debit,Pune,True
+TXN00018,2024-10-19,UPI Wallet,Expense,Groceries,3104.52,Auto-debit,Other,True
+TXN00019,2025-10-23,UPI Wallet,Expense,Healthcare,5153.48,Auto-debit,Mumbai,True
+TXN00020,2024-11-14,Cash,Expense,Shopping,1116.73,Card,Mumbai,False
+TXN00021,2024-09-05,Bank,Expense,Healthcare,1928.33,Cash,Mumbai,True
+TXN00022,2024-08-16,UPI Wallet,Income,Interest,28974.44,Auto-debit,Other,False
+TXN00023,2025-08-04,UPI Wallet,Expense,Education,12365.62,Cash,Other,True
+TXN00024,2025-12-18,Cash,Expense,Rent,19821.34,Auto-debit,Delhi,True
+TXN00025,2025-02-07,Credit Card,Expense,Groceries,4290.61,UPI,Delhi,True
+TXN00026,2025-02-21,Bank,Expense,Rent,20615.93,Card,Pune,True
+TXN00027,2025-11-17,Credit Card,Expense,Healthcare,10361.16,Auto-debit,Mumbai,True
+TXN00028,2024-12-04,UPI Wallet,Expense,Shopping,8201.68,UPI,Hyderabad,False
+TXN00029,2025-09-13,Bank,Expense,Groceries,830.89,Auto-debit,Other,True
+TXN00030,2024-06-24,Bank,Expense,Utilities,2145.61,Card,Pune,True
+TXN00031,2024-03-31,Bank,Expense,Utilities,1561.63,UPI,Delhi,True
+TXN00032,2024-07-05,UPI Wallet,Income,Freelance,42228.65,Bank Transfer,Delhi,False
+TXN00033,2024-03-22,UPI Wallet,Expense,Subscriptions,1445.75,Bank Transfer,Delhi,False
+TXN00034,2025-07-09,Bank,Expense,Education,14494.78,Auto-debit,Mumbai,True
+TXN00035,2024-04-12,Credit Card,Income,Freelance,44520.87,Card,Hyderabad,False
+TXN00036,2024-10-30,UPI Wallet,Expense,Healthcare,7372.66,Cash,Delhi,True
+TXN00037,2025-07-02,Cash,Expense,Transport,431.61,Card,Bengaluru,True
+TXN00038,2024-08-26,Bank,Expense,Dining,1934.4,Cash,Other,False
+TXN00039,2025-10-01,Bank,Expense,Education,12986.61,Cash,Pune,True
+TXN00040,2024-05-15,Credit Card,Expense,Utilities,1965.3,Cash,Mumbai,True
+TXN00041,2025-06-14,Credit Card,Expense,Groceries,3022.37,Cash,Delhi,True
+TXN00042,2025-12-27,Bank,Expense,Education,10532.35,Card,Other,True
+TXN00043,2024-08-16,UPI Wallet,Expense,Subscriptions,272.46,Cash,Hyderabad,False
+TXN00044,2024-09-21,Bank,Expense,Groceries,270.76,Cash,Bengaluru,True
+TXN00045,2025-06-12,Credit Card,Income,Salary,61027.34,Card,Mumbai,False
+TXN00046,2024-05-20,Bank,Expense,Subscriptions,1244.39,Card,Hyderabad,False
+TXN00047,2025-04-05,Bank,Expense,Rent,13618.86,UPI,Mumbai,True
+TXN00048,2025-06-23,Credit Card,Expense,Groceries,2388.06,Cash,Hyderabad,True
+TXN00049,2025-11-27,Bank,Expense,Utilities,2481.93,UPI,Pune,True
+TXN00050,2025-10-22,UPI Wallet,Expense,Transport,2082.85,Cash,Mumbai,True
+TXN00051,2024-06-26,Bank,Expense,Healthcare,3665.49,Bank Transfer,Other,True
+TXN00052,2025-07-07,UPI Wallet,Income,Interest,23110.51,Cash,Other,False
+TXN00053,2025-07-29,Bank,Expense,Education,14730.8,UPI,Hyderabad,True
+TXN00054,2024-09-29,Bank,Expense,Utilities,2242.59,UPI,Hyderabad,True
+TXN00055,2025-10-11,UPI Wallet,Expense,Healthcare,8513.3,Cash,Pune,True
+TXN00056,2025-06-19,UPI Wallet,Expense,Rent,19779.35,Bank Transfer,Hyderabad,True
+TXN00057,2024-11-04,UPI Wallet,Expense,Transport,1221.42,Auto-debit,Delhi,True
+TXN00058,2024-08-21,Bank,Expense,Healthcare,4408.96,UPI,Pune,True
+TXN00059,2024-03-31,Cash,Expense,Rent,10527.4,UPI,Other,True
+TXN00060,2024-12-22,UPI Wallet,Income,Interest,12005.59,Card,Bengaluru,False
+TXN00061,2024-03-05,UPI Wallet,Expense,Dining,294.63,UPI,Bengaluru,False
+TXN00062,2024-03-15,Credit Card,Expense,Education,10232.63,Cash,Bengaluru,True
+TXN00063,2025-05-06,Bank,Expense,Dining,1705.35,Bank Transfer,Mumbai,False
+TXN00064,2024-07-27,UPI Wallet,Expense,Healthcare,1538.69,Bank Transfer,Mumbai,True
+TXN00065,2025-02-21,UPI Wallet,Expense,Subscriptions,690.96,Auto-debit,Mumbai,False
+TXN00066,2025-01-06,Bank,Expense,Education,6750.38,UPI,Delhi,True
+TXN00067,2025-02-18,Bank,Expense,Transport,330.39,Cash,Mumbai,True
+TXN00068,2024-02-23,Bank,Expense,Utilities,3062.08,Auto-debit,Hyderabad,True
+TXN00069,2025-02-14,Credit Card,Expense,Dining,2912.97,UPI,Bengaluru,False
+TXN00070,2025-06-20,UPI Wallet,Income,Freelance,49244.12,UPI,Pune,False
+TXN00071,2025-08-07,UPI Wallet,Expense,Rent,24170.68,UPI,Pune,True
+TXN00072,2024-10-28,Bank,Income,Salary,35055.94,Bank Transfer,Delhi,False
+TXN00073,2024-11-29,Bank,Expense,Shopping,6118.79,Bank Transfer,Hyderabad,False
+TXN00074,2025-01-22,UPI Wallet,Income,Salary,31060.56,Bank Transfer,Other,False
+TXN00075,2025-04-13,Bank,Income,Salary,20461.03,Cash,Bengaluru,False
+TXN00076,2024-12-01,Credit Card,Expense,Travel,9608.44,Card,Delhi,False
+TXN00077,2025-04-18,Bank,Expense,Education,1154.88,Auto-debit,Pune,True
+TXN00078,2025-06-03,UPI Wallet,Expense,Subscriptions,183.01,UPI,Other,False
+TXN00079,2025-06-21,Credit Card,Income,Freelance,52332.73,UPI,Hyderabad,False
+TXN00080,2025-04-10,Bank,Income,Salary,25046.87,Card,Hyderabad,False
+TXN00081,2025-12-07,Credit Card,Expense,Subscriptions,316.45,UPI,Delhi,False
+TXN00082,2025-05-30,Bank,Expense,Groceries,1041.55,UPI,Hyderabad,True
+TXN00083,2025-11-29,UPI Wallet,Expense,Transport,1613.35,UPI,Hyderabad,True
+TXN00084,2024-06-18,UPI Wallet,Income,Salary,46234.95,UPI,Bengaluru,False
+TXN00085,2025-04-21,UPI Wallet,Expense,Travel,7438.65,Bank Transfer,Other,False
+TXN00086,2025-04-03,Bank,Expense,Groceries,1736.37,UPI,Bengaluru,True
+TXN00087,2024-09-20,Bank,Expense,Utilities,1938.83,Bank Transfer,Delhi,True
+TXN00088,2025-01-15,Bank,Expense,Healthcare,722.23,Auto-debit,Mumbai,True
+TXN00089,2024-10-25,Credit Card,Expense,Groceries,2375.8,Bank Transfer,Mumbai,True
+TXN00090,2024-02-24,Cash,Expense,Travel,9854.54,UPI,Other,False
+TXN00091,2024-10-05,Bank,Expense,Utilities,1094.59,Bank Transfer,Bengaluru,True
+TXN00092,2024-02-10,Bank,Income,Salary,14680.08,Card,Pune,False
+TXN00093,2025-10-06,UPI Wallet,Income,Salary,1152.25,Auto-debit,Delhi,False
+TXN00094,2025-02-28,UPI Wallet,Expense,Healthcare,1223.85,Bank Transfer,Bengaluru,True
+TXN00095,2025-03-14,UPI Wallet,Expense,Travel,13126.18,Card,Other,False
+TXN00096,2025-03-02,UPI Wallet,Expense,Travel,1994.48,UPI,Mumbai,False
+TXN00097,2024-09-26,UPI Wallet,Expense,Subscriptions,224.37,Bank Transfer,Hyderabad,False
+TXN00098,2025-07-18,Bank,Expense,Shopping,8249.08,Bank Transfer,Delhi,False
+TXN00099,2024-10-23,Credit Card,Expense,Dining,2998.99,UPI,Pune,False
+TXN00100,2025-07-13,Credit Card,Expense,Utilities,1318.1,Bank Transfer,Other,True
+TXN00101,2024-12-15,Cash,Income,Business Income,53719.93,Cash,Hyderabad,False
+TXN00102,2024-11-29,UPI Wallet,Expense,Utilities,2281.13,Auto-debit,Pune,True
+TXN00103,2024-07-17,UPI Wallet,Expense,Dining,1740.99,Cash,Other,False
+TXN00104,2024-11-09,UPI Wallet,Income,Interest,27420.62,UPI,Pune,False
+TXN00105,2024-06-22,Bank,Expense,Transport,572.2,Card,Delhi,True
+TXN00106,2024-10-11,Bank,Expense,Dining,404.36,UPI,Delhi,False
+TXN00107,2024-09-19,Credit Card,Expense,Education,6767.96,Bank Transfer,Hyderabad,True
+TXN00108,2025-11-20,Credit Card,Expense,Shopping,5130.03,UPI,Other,False
+TXN00109,2024-10-08,Cash,Expense,Groceries,3804.97,UPI,Delhi,True
+TXN00110,2025-05-18,UPI Wallet,Expense,Rent,17657.19,Bank Transfer,Hyderabad,True
+TXN00111,2024-09-06,Bank,Expense,Education,6941.43,Cash,Bengaluru,True
+TXN00112,2024-09-12,Credit Card,Expense,Travel,5486.11,UPI,Pune,False
+TXN00113,2024-09-25,UPI Wallet,Expense,Travel,3735.37,UPI,Pune,False
+TXN00114,2025-05-29,Bank,Expense,Groceries,3835.97,Cash,Other,True
+TXN00115,2024-05-28,Bank,Expense,Groceries,4253.45,Bank Transfer,Other,True
+TXN00116,2025-01-29,UPI Wallet,Expense,Subscriptions,761.73,Cash,Bengaluru,False
+TXN00117,2025-01-03,UPI Wallet,Expense,Utilities,1043.87,UPI,Bengaluru,True
+TXN00118,2025-02-24,Bank,Expense,Subscriptions,1385.82,Bank Transfer,Other,False
+TXN00119,2024-03-08,Cash,Expense,Dining,1872.07,Bank Transfer,Delhi,False
+TXN00120,2025-10-30,Bank,Expense,Transport,2019.23,Card,Mumbai,True
+TXN00121,2024-07-14,Bank,Income,Business Income,24605.9,Cash,Hyderabad,False
+TXN00122,2025-03-19,UPI Wallet,Expense,Groceries,4349.94,Bank Transfer,Pune,True
+TXN00123,2024-08-25,UPI Wallet,Expense,Utilities,1190.09,Auto-debit,Mumbai,True
+TXN00124,2025-10-24,UPI Wallet,Expense,Shopping,8925.11,Card,Bengaluru,False
+TXN00125,2025-12-11,UPI Wallet,Expense,Dining,2229.01,Cash,Other,False
+TXN00126,2025-01-22,Bank,Expense,Transport,1108.85,Auto-debit,Delhi,True
+TXN00127,2025-10-10,UPI Wallet,Income,Interest,54262.04,Auto-debit,Other,False
+TXN00128,2025-07-14,UPI Wallet,Expense,Subscriptions,1161.26,Card,Bengaluru,False
+TXN00129,2025-12-06,Cash,Expense,Dining,1317.18,Card,Other,False
+TXN00130,2025-01-21,Credit Card,Expense,Travel,12637.0,Auto-debit,Hyderabad,False
+TXN00131,2025-04-11,Credit Card,Expense,Subscriptions,878.66,Cash,Other,False
+TXN00132,2025-02-17,Credit Card,Expense,Rent,17181.49,Auto-debit,Delhi,True
+TXN00133,2025-06-09,Bank,Income,Business Income,18399.26,Card,Pune,False
+TXN00134,2024-11-10,UPI Wallet,Expense,Groceries,910.03,Card,Pune,True
+TXN00135,2024-10-31,Credit Card,Expense,Transport,1952.68,Cash,Bengaluru,True
+TXN00136,2025-04-25,Credit Card,Expense,Dining,1456.2,Auto-debit,Other,False
+TXN00137,2025-10-18,Cash,Expense,Groceries,3803.07,Auto-debit,Bengaluru,True
+TXN00138,2024-02-19,Bank,Expense,Groceries,2601.57,Auto-debit,Bengaluru,True
+TXN00139,2025-11-19,UPI Wallet,Expense,Subscriptions,1475.61,Auto-debit,Hyderabad,False
+TXN00140,2025-05-14,Bank,Expense,Transport,2413.64,Cash,Hyderabad,True
+TXN00141,2024-01-17,Bank,Expense,Dining,706.83,UPI,Mumbai,False
+TXN00142,2025-01-16,UPI Wallet,Expense,Dining,1450.57,Auto-debit,Hyderabad,False
+TXN00143,2025-11-02,Cash,Expense,Travel,9583.93,Card,Bengaluru,False
+TXN00144,2025-06-13,Credit Card,Income,Freelance,44420.48,Bank Transfer,Delhi,False
+TXN00145,2025-02-12,UPI Wallet,Expense,Shopping,1466.29,Cash,Delhi,False
+TXN00146,2024-01-08,Credit Card,Expense,Utilities,725.89,Cash,Hyderabad,True
+TXN00147,2024-11-21,UPI Wallet,Expense,Dining,161.23,Cash,Hyderabad,False
+TXN00148,2024-08-01,Bank,Expense,Subscriptions,579.32,Bank Transfer,Other,False
+TXN00149,2025-08-26,UPI Wallet,Expense,Education,11232.07,Card,Delhi,True
+TXN00150,2025-02-18,Bank,Expense,Dining,1082.79,Auto-debit,Other,False
+TXN00151,2024-07-13,UPI Wallet,Expense,Rent,24358.02,Cash,Delhi,True
+TXN00152,2024-12-05,UPI Wallet,Expense,Groceries,3789.05,Bank Transfer,Mumbai,True
+TXN00153,2025-05-11,Cash,Expense,Healthcare,8504.95,Card,Delhi,True
+TXN00154,2024-03-20,Bank,Expense,Dining,186.34,Card,Delhi,False
+TXN00155,2024-12-25,Credit Card,Expense,Rent,17179.22,Cash,Mumbai,True
+TXN00156,2024-02-09,Bank,Expense,Rent,12686.03,Cash,Mumbai,True
+TXN00157,2024-05-11,UPI Wallet,Expense,Shopping,8614.98,Cash,Mumbai,False
+TXN00158,2024-10-22,Credit Card,Income,Freelance,846.13,Cash,Pune,False
+TXN00159,2025-03-10,UPI Wallet,Income,Business Income,29060.51,Bank Transfer,Mumbai,False
+TXN00160,2024-10-31,UPI Wallet,Expense,Transport,1758.95,Auto-debit,Delhi,True
+TXN00161,2025-11-10,Credit Card,Expense,Education,9630.52,Cash,Pune,True
+TXN00162,2024-10-04,Bank,Income,Interest,28820.61,UPI,Bengaluru,False
+TXN00163,2025-04-05,Bank,Expense,Subscriptions,553.26,UPI,Delhi,False
+TXN00164,2025-11-17,UPI Wallet,Expense,Rent,10516.96,Cash,Delhi,True
+TXN00165,2025-04-23,UPI Wallet,Expense,Groceries,216.17,Auto-debit,Hyderabad,True
+TXN00166,2024-05-30,UPI Wallet,Expense,Groceries,1085.46,Bank Transfer,Hyderabad,True
+TXN00167,2024-01-09,Credit Card,Expense,Transport,187.44,Auto-debit,Pune,True
+TXN00168,2025-06-07,Credit Card,Expense,Subscriptions,860.24,Cash,Other,False
+TXN00169,2024-06-01,UPI Wallet,Income,Salary,64175.99,Auto-debit,Bengaluru,False
+TXN00170,2024-05-12,Bank,Expense,Shopping,8098.72,Bank Transfer,Mumbai,False
+TXN00171,2025-09-02,Credit Card,Expense,Travel,4206.62,Cash,Mumbai,False
+TXN00172,2024-02-02,UPI Wallet,Expense,Subscriptions,408.31,Card,Delhi,False
+TXN00173,2024-08-18,Credit Card,Expense,Transport,1864.28,Auto-debit,Delhi,True
+TXN00174,2025-03-30,Cash,Expense,Healthcare,7892.67,UPI,Delhi,True
+TXN00175,2025-10-30,Bank,Expense,Transport,1368.55,UPI,Hyderabad,True
+TXN00176,2025-09-08,Credit Card,Expense,Rent,23800.65,Card,Other,True
+TXN00177,2025-04-26,Bank,Expense,Dining,1910.96,Card,Bengaluru,False
+TXN00178,2024-08-29,Bank,Expense,Shopping,7557.09,Cash,Bengaluru,False
+TXN00179,2024-06-16,Credit Card,Expense,Rent,10303.42,Cash,Other,True
+TXN00180,2025-01-31,Bank,Income,Business Income,3561.17,UPI,Delhi,False
+TXN00181,2025-03-19,Bank,Income,Freelance,15919.98,Card,Bengaluru,False
+TXN00182,2025-04-05,UPI Wallet,Income,Freelance,3571.42,Auto-debit,Pune,False
+TXN00183,2025-12-20,UPI Wallet,Expense,Groceries,1661.36,Cash,Other,True
+TXN00184,2025-05-03,Bank,Expense,Shopping,6725.77,Card,Hyderabad,False
+TXN00185,2024-04-30,Bank,Expense,Subscriptions,189.73,Card,Bengaluru,False
+TXN00186,2025-03-17,UPI Wallet,Expense,Healthcare,9397.18,UPI,Hyderabad,True
+TXN00187,2025-08-20,UPI Wallet,Expense,Travel,7562.55,Bank Transfer,Hyderabad,False
+TXN00188,2025-10-17,UPI Wallet,Expense,Transport,1276.13,Auto-debit,Pune,True
+TXN00189,2024-10-01,Bank,Expense,Utilities,2006.16,Bank Transfer,Bengaluru,True
+TXN00190,2024-05-13,UPI Wallet,Expense,Transport,808.81,UPI,Delhi,True
+TXN00191,2024-10-06,Cash,Income,Freelance,1360.84,Auto-debit,Mumbai,False
+TXN00192,2025-06-26,Credit Card,Expense,Healthcare,10217.68,UPI,Other,True
+TXN00193,2024-05-22,Bank,Expense,Rent,21673.63,UPI,Mumbai,True
+TXN00194,2025-11-23,UPI Wallet,Expense,Transport,1106.19,UPI,Other,True
+TXN00195,2025-08-24,Bank,Expense,Shopping,8536.78,UPI,Bengaluru,False
+TXN00196,2024-09-12,UPI Wallet,Expense,Healthcare,10001.99,Bank Transfer,Mumbai,True
+TXN00197,2024-11-19,Credit Card,Expense,Utilities,1435.91,Auto-debit,Hyderabad,True
+TXN00198,2025-07-22,Bank,Expense,Dining,181.19,Card,Bengaluru,False
+TXN00199,2025-03-25,Cash,Expense,Transport,269.28,Cash,Delhi,True
+TXN00200,2025-03-24,Bank,Expense,Groceries,3692.3,Auto-debit,Mumbai,True
+TXN00201,2024-05-10,UPI Wallet,Income,Interest,26000.3,Cash,Hyderabad,False
+TXN00202,2024-07-20,UPI Wallet,Expense,Rent,9040.1,Bank Transfer,Bengaluru,True
+TXN00203,2024-05-17,UPI Wallet,Income,Interest,592.94,UPI,Pune,False
+TXN00204,2024-10-22,UPI Wallet,Expense,Utilities,1212.42,Card,Other,True
+TXN00205,2025-03-15,Bank,Expense,Utilities,2999.72,Auto-debit,Other,True
+TXN00206,2025-10-02,Bank,Expense,Education,1527.16,Bank Transfer,Mumbai,True
+TXN00207,2025-12-14,Credit Card,Expense,Shopping,3164.16,Bank Transfer,Delhi,False
+TXN00208,2024-12-17,Credit Card,Expense,Dining,1980.9,Auto-debit,Delhi,False
+TXN00209,2024-11-01,UPI Wallet,Income,Freelance,35321.04,Cash,Pune,False
+TXN00210,2024-08-02,Cash,Expense,Utilities,2712.97,Auto-debit,Bengaluru,True
+TXN00211,2025-09-16,Bank,Expense,Rent,23315.11,UPI,Hyderabad,True
+TXN00212,2025-12-29,Cash,Expense,Utilities,1356.47,UPI,Delhi,True
+TXN00213,2024-10-21,UPI Wallet,Income,Interest,11775.59,Auto-debit,Delhi,False
+TXN00214,2024-08-08,Cash,Expense,Shopping,5779.24,Auto-debit,Mumbai,False
+TXN00215,2025-12-29,UPI Wallet,Expense,Dining,485.78,Card,Mumbai,False
+TXN00216,2024-01-31,Credit Card,Income,Salary,28761.38,Card,Delhi,False
+TXN00217,2024-12-05,Cash,Expense,Dining,1319.41,Card,Bengaluru,False
+TXN00218,2024-05-25,Credit Card,Expense,Shopping,9680.47,Card,Pune,False
+TXN00219,2025-03-09,Bank,Income,Interest,60127.25,UPI,Delhi,False
+TXN00220,2025-12-07,Credit Card,Expense,Subscriptions,232.26,Bank Transfer,Delhi,False
+TXN00221,2024-02-24,UPI Wallet,Expense,Shopping,5008.62,Cash,Other,False
+TXN00222,2024-08-15,Bank,Income,Salary,15857.65,Cash,Other,False
+TXN00223,2024-02-01,Credit Card,Expense,Groceries,1572.36,Bank Transfer,Bengaluru,True
+TXN00224,2025-09-21,UPI Wallet,Expense,Dining,2478.64,Bank Transfer,Other,False
+TXN00225,2024-04-02,UPI Wallet,Expense,Transport,1583.17,UPI,Other,True
+TXN00226,2025-09-29,Credit Card,Expense,Travel,6750.92,Cash,Bengaluru,False
+TXN00227,2024-09-08,Credit Card,Expense,Dining,1401.48,Bank Transfer,Hyderabad,False
+TXN00228,2024-01-16,UPI Wallet,Expense,Rent,6304.13,UPI,Mumbai,True
+TXN00229,2024-12-28,UPI Wallet,Expense,Groceries,3676.55,Bank Transfer,Delhi,True
+TXN00230,2025-06-20,UPI Wallet,Expense,Travel,6223.57,Card,Mumbai,False
+TXN00231,2024-06-13,UPI Wallet,Income,Interest,48171.12,UPI,Hyderabad,False
+TXN00232,2025-02-01,Cash,Income,Business Income,54959.37,Auto-debit,Hyderabad,False
+TXN00233,2024-10-08,Bank,Expense,Shopping,3913.37,Auto-debit,Pune,False
+TXN00234,2025-04-01,Bank,Expense,Healthcare,295.02,Bank Transfer,Hyderabad,True
+TXN00235,2024-05-23,UPI Wallet,Expense,Travel,12285.56,Auto-debit,Other,False
+TXN00236,2024-11-15,UPI Wallet,Expense,Subscriptions,1463.15,Cash,Delhi,False
+TXN00237,2025-10-25,Bank,Expense,Groceries,469.69,Bank Transfer,Hyderabad,True
+TXN00238,2024-04-01,Bank,Expense,Healthcare,5110.63,UPI,Other,True
+TXN00239,2024-07-10,UPI Wallet,Income,Freelance,30963.86,Auto-debit,Hyderabad,False
+TXN00240,2024-04-11,UPI Wallet,Expense,Dining,438.71,UPI,Hyderabad,False
+TXN00241,2024-10-29,UPI Wallet,Expense,Rent,11914.47,Auto-debit,Hyderabad,True
+TXN00242,2024-01-20,Credit Card,Expense,Healthcare,7681.4,UPI,Delhi,True
+TXN00243,2024-01-21,Bank,Expense,Rent,19709.77,Auto-debit,Delhi,True
+TXN00244,2024-07-10,UPI Wallet,Expense,Subscriptions,179.69,Cash,Other,False
+TXN00245,2025-06-30,UPI Wallet,Income,Freelance,3392.25,Cash,Delhi,False
+TXN00246,2025-04-24,Cash,Expense,Shopping,3589.65,UPI,Hyderabad,False
+TXN00247,2025-02-27,Cash,Expense,Healthcare,6386.93,Auto-debit,Pune,True
+TXN00248,2024-07-24,UPI Wallet,Expense,Groceries,1918.46,Cash,Other,True
+TXN00249,2025-11-07,UPI Wallet,Expense,Shopping,2702.73,Auto-debit,Delhi,False
+TXN00250,2024-10-04,Cash,Expense,Travel,13095.64,Card,Other,False
+TXN00251,2025-03-10,Bank,Expense,Shopping,2549.37,Bank Transfer,Other,False
+TXN00252,2025-03-06,UPI Wallet,Income,Salary,50289.43,UPI,Mumbai,False
+TXN00253,2025-10-30,Cash,Income,Business Income,36082.05,Cash,Bengaluru,False
+TXN00254,2025-04-09,UPI Wallet,Expense,Subscriptions,1074.61,Cash,Bengaluru,False
+TXN00255,2024-11-20,UPI Wallet,Expense,Dining,2773.92,UPI,Pune,False
+TXN00256,2025-09-21,Bank,Expense,Healthcare,557.48,Bank Transfer,Mumbai,True
+TXN00257,2025-04-20,Credit Card,Expense,Shopping,3922.51,Cash,Bengaluru,False
+TXN00258,2024-09-20,Bank,Expense,Healthcare,10105.1,Auto-debit,Pune,True
+TXN00259,2024-01-25,Bank,Expense,Dining,1664.07,UPI,Bengaluru,False
+TXN00260,2025-06-16,Bank,Income,Freelance,51623.67,Cash,Delhi,False
+TXN00261,2025-07-30,UPI Wallet,Expense,Utilities,1275.97,Cash,Other,True
+TXN00262,2024-09-09,Credit Card,Expense,Healthcare,2954.7,Card,Bengaluru,True
+TXN00263,2025-03-15,Bank,Expense,Healthcare,2783.91,UPI,Pune,True
+TXN00264,2025-06-03,UPI Wallet,Expense,Transport,262.28,UPI,Other,True
+TXN00265,2025-07-17,UPI Wallet,Expense,Travel,7943.07,UPI,Mumbai,False
+TXN00266,2025-11-11,UPI Wallet,Expense,Travel,13146.79,Cash,Mumbai,False
+TXN00267,2025-03-11,UPI Wallet,Income,Business Income,39328.17,Cash,Delhi,False
+TXN00268,2024-09-02,UPI Wallet,Expense,Healthcare,5046.82,Card,Pune,True
+TXN00269,2024-11-27,Credit Card,Income,Salary,38208.37,Auto-debit,Mumbai,False
+TXN00270,2024-12-28,Bank,Income,Business Income,18506.96,UPI,Other,False
+TXN00271,2024-05-14,Bank,Expense,Dining,266.32,UPI,Hyderabad,False
+TXN00272,2024-06-30,Credit Card,Expense,Utilities,1485.96,Bank Transfer,Pune,True
+TXN00273,2024-05-28,Bank,Expense,Healthcare,6102.73,Cash,Pune,True
+TXN00274,2025-01-17,Cash,Expense,Travel,16939.64,Cash,Delhi,False
+TXN00275,2024-11-09,UPI Wallet,Income,Business Income,43761.89,Auto-debit,Other,False
+TXN00276,2025-01-13,UPI Wallet,Expense,Education,3454.86,Card,Bengaluru,True
+TXN00277,2024-02-26,UPI Wallet,Expense,Education,6930.58,Card,Pune,True
+TXN00278,2025-08-16,Bank,Expense,Education,5839.16,Cash,Mumbai,True
+TXN00279,2025-10-07,Credit Card,Expense,Utilities,3146.74,Card,Delhi,True
+TXN00280,2025-07-25,UPI Wallet,Expense,Subscriptions,1180.4,UPI,Pune,False
+TXN00281,2025-05-23,Bank,Expense,Education,7536.57,Cash,Pune,True
+TXN00282,2024-10-29,Credit Card,Expense,Transport,1373.67,Cash,Bengaluru,True
+TXN00283,2024-03-27,Credit Card,Expense,Groceries,4411.61,Card,Mumbai,True
+TXN00284,2024-05-05,UPI Wallet,Expense,Dining,2172.53,UPI,Delhi,False
+TXN00285,2024-08-24,UPI Wallet,Income,Business Income,14157.6,UPI,Pune,False
+TXN00286,2024-07-04,Credit Card,Expense,Groceries,4425.8,Cash,Delhi,True
+TXN00287,2024-08-23,Bank,Expense,Utilities,2712.95,UPI,Mumbai,True
+TXN00288,2025-01-01,Cash,Income,Business Income,8506.19,Bank Transfer,Mumbai,False
+TXN00289,2024-11-09,UPI Wallet,Income,Freelance,7342.57,UPI,Other,False
+TXN00290,2025-12-10,Cash,Income,Freelance,2097.63,UPI,Other,False
+TXN00291,2024-03-19,Cash,Expense,Transport,1127.63,Auto-debit,Hyderabad,True
+TXN00292,2025-05-11,Bank,Expense,Rent,11815.05,UPI,Mumbai,True
+TXN00293,2024-06-09,Bank,Expense,Rent,8194.81,Auto-debit,Hyderabad,True
+TXN00294,2024-07-14,UPI Wallet,Expense,Utilities,640.19,Auto-debit,Other,True
+TXN00295,2024-11-21,Bank,Expense,Education,4452.16,Cash,Mumbai,True
+TXN00296,2025-12-26,UPI Wallet,Expense,Travel,4341.23,Auto-debit,Other,False
+TXN00297,2025-12-01,Bank,Income,Salary,16682.41,Cash,Hyderabad,False
+TXN00298,2025-09-02,Cash,Expense,Education,655.19,Card,Bengaluru,True
+TXN00299,2024-02-08,Bank,Expense,Healthcare,4317.49,Bank Transfer,Mumbai,True
+TXN00300,2024-11-19,Bank,Expense,Travel,12498.05,Cash,Other,False
+TXN00301,2025-08-16,UPI Wallet,Income,Freelance,5678.43,Auto-debit,Other,False
+TXN00302,2025-05-15,Bank,Expense,Healthcare,8312.27,Auto-debit,Bengaluru,True
+TXN00303,2024-09-21,Credit Card,Expense,Education,9931.98,Card,Bengaluru,True
+TXN00304,2024-03-25,Bank,Expense,Healthcare,4653.51,UPI,Mumbai,True
+TXN00305,2024-12-15,UPI Wallet,Expense,Utilities,2908.47,Bank Transfer,Mumbai,True
+TXN00306,2025-12-19,UPI Wallet,Expense,Transport,2399.15,Bank Transfer,Delhi,True
+TXN00307,2024-08-01,Cash,Expense,Rent,19042.57,Auto-debit,Mumbai,True
+TXN00308,2024-04-27,Cash,Expense,Groceries,3496.49,Bank Transfer,Other,True
+TXN00309,2025-08-18,Credit Card,Income,Interest,30044.68,Card,Pune,False
+TXN00310,2025-09-15,UPI Wallet,Expense,Utilities,1603.66,Card,Hyderabad,True
+TXN00311,2025-08-05,UPI Wallet,Expense,Transport,592.36,UPI,Pune,True
+TXN00312,2024-12-14,Bank,Expense,Subscriptions,1139.83,Card,Other,False
+TXN00313,2024-12-08,Cash,Expense,Education,4357.65,Card,Bengaluru,True
+TXN00314,2025-07-01,Cash,Expense,Rent,18363.72,Auto-debit,Pune,True
+TXN00315,2024-02-23,Bank,Income,Freelance,5500.16,Cash,Mumbai,False
+TXN00316,2024-08-28,UPI Wallet,Expense,Groceries,3797.82,Cash,Delhi,True
+TXN00317,2024-03-02,UPI Wallet,Expense,Education,14975.55,UPI,Delhi,True
+TXN00318,2025-01-06,UPI Wallet,Expense,Transport,1527.34,Cash,Delhi,True
+TXN00319,2025-11-03,UPI Wallet,Expense,Education,6075.01,UPI,Delhi,True
+TXN00320,2025-03-11,UPI Wallet,Expense,Subscriptions,1084.24,Cash,Hyderabad,False
+TXN00321,2024-02-01,Credit Card,Income,Business Income,50100.06,Bank Transfer,Hyderabad,False
+TXN00322,2024-10-28,UPI Wallet,Expense,Education,8681.85,Bank Transfer,Delhi,True
+TXN00323,2025-03-06,Bank,Expense,Travel,3039.35,Card,Pune,False
+TXN00324,2024-12-06,Bank,Expense,Subscriptions,381.17,Cash,Bengaluru,False
+TXN00325,2024-12-01,Bank,Expense,Healthcare,1730.17,UPI,Hyderabad,True
+TXN00326,2025-12-14,UPI Wallet,Expense,Subscriptions,1190.04,Cash,Other,False
+TXN00327,2024-05-26,UPI Wallet,Expense,Education,9374.83,Card,Pune,True
+TXN00328,2024-11-27,Bank,Income,Freelance,46857.59,Bank Transfer,Hyderabad,False
+TXN00329,2024-09-30,Bank,Expense,Education,2117.18,Cash,Delhi,True
+TXN00330,2024-04-27,Cash,Expense,Education,5201.7,UPI,Pune,True
+TXN00331,2025-12-26,Credit Card,Expense,Dining,553.77,UPI,Delhi,False
+TXN00332,2024-12-21,UPI Wallet,Income,Freelance,29301.06,UPI,Pune,False
+TXN00333,2024-12-28,Bank,Income,Business Income,40132.31,Card,Delhi,False
+TXN00334,2025-10-23,Credit Card,Income,Interest,34215.87,Cash,Bengaluru,False
+TXN00335,2024-07-21,Bank,Expense,Utilities,1268.06,UPI,Other,True
+TXN00336,2024-07-03,Cash,Expense,Dining,1475.41,Cash,Pune,False
+TXN00337,2025-09-27,UPI Wallet,Expense,Education,5992.25,Bank Transfer,Delhi,True
+TXN00338,2024-08-11,Bank,Expense,Groceries,2474.85,Bank Transfer,Delhi,True
+TXN00339,2024-11-10,Bank,Expense,Dining,988.33,Auto-debit,Bengaluru,False
+TXN00340,2024-07-15,Credit Card,Expense,Utilities,2821.08,UPI,Mumbai,True
+TXN00341,2024-07-18,Bank,Expense,Dining,1997.39,UPI,Delhi,False
+TXN00342,2024-09-28,UPI Wallet,Expense,Shopping,7854.09,Cash,Delhi,False
+TXN00343,2024-07-09,Bank,Expense,Shopping,481.8,UPI,Bengaluru,False
+TXN00344,2024-12-11,Cash,Expense,Subscriptions,103.5,Card,Mumbai,False
+TXN00345,2025-08-16,Credit Card,Expense,Groceries,2172.96,Cash,Other,True
+TXN00346,2024-09-01,Bank,Expense,Transport,1988.61,Cash,Mumbai,True
+TXN00347,2024-07-19,UPI Wallet,Expense,Transport,961.94,Cash,Hyderabad,True
+TXN00348,2024-05-16,UPI Wallet,Expense,Utilities,2738.11,Cash,Other,True
+TXN00349,2024-11-08,Bank,Expense,Healthcare,2611.9,Card,Other,True
+TXN00350,2024-09-05,UPI Wallet,Expense,Transport,203.62,Auto-debit,Bengaluru,True
+TXN00351,2024-10-18,UPI Wallet,Expense,Utilities,1208.16,Card,Other,True
+TXN00352,2024-10-30,Bank,Expense,Groceries,4357.25,UPI,Other,True
+TXN00353,2025-02-18,Cash,Expense,Healthcare,8103.68,Auto-debit,Delhi,True
+TXN00354,2024-12-23,Bank,Expense,Healthcare,8652.48,Cash,Hyderabad,True
+TXN00355,2024-05-22,UPI Wallet,Expense,Shopping,319.36,Bank Transfer,Mumbai,False
+TXN00356,2025-04-24,Cash,Expense,Subscriptions,885.55,Cash,Hyderabad,False
+TXN00357,2025-02-17,Bank,Expense,Education,11126.05,Cash,Hyderabad,True
+TXN00358,2025-06-24,Bank,Expense,Healthcare,7865.26,Card,Pune,True
+TXN00359,2025-08-03,Credit Card,Expense,Rent,20886.2,UPI,Mumbai,True
+TXN00360,2025-08-26,UPI Wallet,Expense,Utilities,1102.27,Cash,Bengaluru,True
+TXN00361,2025-06-11,Credit Card,Expense,Healthcare,2263.21,Cash,Mumbai,True
+TXN00362,2024-07-02,UPI Wallet,Expense,Healthcare,2032.97,Card,Mumbai,True
+TXN00363,2024-03-24,Cash,Income,Salary,25853.69,Card,Bengaluru,False
+TXN00364,2025-03-25,Bank,Expense,Travel,1850.35,Cash,Bengaluru,False
+TXN00365,2024-05-12,UPI Wallet,Expense,Healthcare,11759.59,UPI,Pune,True
+TXN00366,2024-05-14,Credit Card,Expense,Education,4366.84,Cash,Bengaluru,True
+TXN00367,2025-04-29,Bank,Expense,Rent,18675.63,UPI,Bengaluru,True
+TXN00368,2025-03-29,UPI Wallet,Expense,Shopping,4080.73,Auto-debit,Pune,False
+TXN00369,2024-05-07,UPI Wallet,Expense,Dining,1627.31,UPI,Bengaluru,False
+TXN00370,2025-11-02,UPI Wallet,Expense,Healthcare,6155.48,Auto-debit,Bengaluru,True
+TXN00371,2024-03-07,Bank,Income,Interest,52026.3,Bank Transfer,Bengaluru,False
+TXN00372,2025-09-28,UPI Wallet,Expense,Subscriptions,141.67,Auto-debit,Hyderabad,False
+TXN00373,2025-08-15,UPI Wallet,Expense,Subscriptions,729.92,Cash,Bengaluru,False
+TXN00374,2025-03-20,UPI Wallet,Expense,Travel,17745.41,Cash,Pune,False
+TXN00375,2024-09-05,Bank,Expense,Utilities,2719.86,UPI,Delhi,True
+TXN00376,2024-07-21,UPI Wallet,Income,Interest,37105.03,Bank Transfer,Delhi,False
+TXN00377,2025-02-07,UPI Wallet,Expense,Utilities,977.09,Card,Pune,True
+TXN00378,2024-04-11,UPI Wallet,Income,Business Income,39192.07,Cash,Delhi,False
+TXN00379,2025-07-26,Cash,Expense,Healthcare,11686.75,Card,Mumbai,True
+TXN00380,2024-11-21,Bank,Expense,Education,7169.82,Cash,Other,True
+TXN00381,2025-01-26,Cash,Expense,Rent,5752.26,Card,Hyderabad,True
+TXN00382,2024-10-18,Credit Card,Expense,Healthcare,7569.63,Auto-debit,Other,True
+TXN00383,2024-04-01,UPI Wallet,Income,Business Income,53978.81,Bank Transfer,Other,False
+TXN00384,2025-05-08,UPI Wallet,Expense,Healthcare,10435.02,Card,Hyderabad,True
+TXN00385,2025-05-11,Bank,Expense,Transport,805.12,Auto-debit,Other,True
+TXN00386,2024-03-18,UPI Wallet,Expense,Education,14339.96,Cash,Hyderabad,True
+TXN00387,2024-09-04,Credit Card,Expense,Transport,1295.61,Card,Other,True
+TXN00388,2024-02-03,Bank,Expense,Travel,16395.24,UPI,Other,False
+TXN00389,2024-09-03,Credit Card,Expense,Subscriptions,1069.6,Auto-debit,Bengaluru,False
+TXN00390,2025-06-14,UPI Wallet,Expense,Rent,7989.11,UPI,Hyderabad,True
+TXN00391,2025-02-20,UPI Wallet,Expense,Healthcare,1222.97,UPI,Bengaluru,True
+TXN00392,2025-03-15,UPI Wallet,Expense,Travel,19607.4,Cash,Delhi,False
+TXN00393,2025-03-10,Bank,Expense,Travel,1255.49,UPI,Mumbai,False
+TXN00394,2024-09-15,UPI Wallet,Expense,Rent,12767.98,Bank Transfer,Delhi,True
+TXN00395,2024-10-21,UPI Wallet,Expense,Groceries,3223.28,Auto-debit,Hyderabad,True
+TXN00396,2025-06-28,UPI Wallet,Expense,Healthcare,392.07,Bank Transfer,Other,True
+TXN00397,2025-06-08,UPI Wallet,Expense,Transport,2296.61,Auto-debit,Other,True
+TXN00398,2024-11-20,Bank,Expense,Education,6713.0,Card,Other,True
+TXN00399,2025-06-26,Credit Card,Expense,Transport,1224.73,Cash,Mumbai,True
+TXN00400,2025-08-01,UPI Wallet,Expense,Rent,10259.94,Card,Delhi,True
+TXN00401,2024-10-22,Cash,Expense,Dining,2882.81,Card,Bengaluru,False
+TXN00402,2025-09-04,UPI Wallet,Income,Interest,13555.71,Bank Transfer,Delhi,False
+TXN00403,2024-04-22,Bank,Income,Business Income,38760.82,Card,Delhi,False
+TXN00404,2025-06-29,Credit Card,Expense,Utilities,415.84,UPI,Other,True
+TXN00405,2025-02-08,Cash,Expense,Education,3171.91,Card,Hyderabad,True
+TXN00406,2025-11-13,UPI Wallet,Expense,Shopping,8111.98,Cash,Bengaluru,False
+TXN00407,2024-05-24,UPI Wallet,Income,Business Income,49195.65,Bank Transfer,Mumbai,False
+TXN00408,2024-02-22,UPI Wallet,Expense,Healthcare,6205.0,Bank Transfer,Hyderabad,True
+TXN00409,2024-02-06,Credit Card,Expense,Dining,2178.41,UPI,Bengaluru,False
+TXN00410,2024-04-02,Bank,Expense,Healthcare,7086.04,Cash,Mumbai,True
+TXN00411,2025-01-27,Bank,Expense,Dining,1202.26,Bank Transfer,Hyderabad,False
+TXN00412,2025-08-01,Credit Card,Expense,Groceries,1545.89,UPI,Bengaluru,True
+TXN00413,2025-08-27,Bank,Expense,Education,4532.63,Cash,Bengaluru,True
+TXN00414,2025-06-17,Credit Card,Expense,Rent,17227.93,Card,Pune,True
+TXN00415,2024-07-30,Cash,Income,Salary,32267.28,UPI,Bengaluru,False
+TXN00416,2024-11-07,Bank,Expense,Shopping,2504.76,Card,Delhi,False
+TXN00417,2024-02-04,Cash,Expense,Utilities,1183.38,Bank Transfer,Pune,True
+TXN00418,2025-01-24,Credit Card,Expense,Groceries,3248.39,Bank Transfer,Delhi,True
+TXN00419,2025-07-11,UPI Wallet,Expense,Rent,9179.58,Bank Transfer,Delhi,True
+TXN00420,2024-05-28,UPI Wallet,Expense,Rent,24397.76,Auto-debit,Other,True
+TXN00421,2025-01-07,Bank,Expense,Utilities,3237.15,Bank Transfer,Delhi,True
+TXN00422,2024-09-06,UPI Wallet,Expense,Utilities,2045.44,Cash,Mumbai,True
+TXN00423,2025-10-17,Bank,Expense,Rent,19603.86,Cash,Pune,True
+TXN00424,2024-02-26,UPI Wallet,Income,Freelance,10856.34,Auto-debit,Hyderabad,False
+TXN00425,2025-06-12,UPI Wallet,Expense,Utilities,2324.81,Auto-debit,Hyderabad,True
+TXN00426,2024-01-26,Credit Card,Expense,Transport,394.05,Cash,Bengaluru,True
+TXN00427,2024-11-26,Bank,Income,Interest,58301.71,Auto-debit,Mumbai,False
+TXN00428,2025-04-26,Bank,Expense,Groceries,2011.08,UPI,Pune,True
+TXN00429,2024-11-28,Bank,Income,Freelance,41523.67,Cash,Bengaluru,False
+TXN00430,2025-03-09,Credit Card,Expense,Education,407.07,Bank Transfer,Other,True
+TXN00431,2025-04-30,UPI Wallet,Expense,Dining,2322.01,Card,Bengaluru,False
+TXN00432,2025-05-27,Bank,Expense,Shopping,2649.29,Cash,Hyderabad,False
+TXN00433,2024-01-13,Credit Card,Expense,Transport,1943.83,Auto-debit,Other,True
+TXN00434,2024-10-08,Bank,Expense,Travel,7387.26,Bank Transfer,Bengaluru,False
+TXN00435,2024-12-31,UPI Wallet,Expense,Travel,10451.25,Cash,Bengaluru,False
+TXN00436,2025-08-11,UPI Wallet,Expense,Groceries,2365.63,Auto-debit,Pune,True
+TXN00437,2025-03-31,Cash,Income,Freelance,35708.08,UPI,Pune,False
+TXN00438,2024-10-02,UPI Wallet,Expense,Dining,169.52,Bank Transfer,Other,False
+TXN00439,2025-08-13,UPI Wallet,Income,Salary,60232.56,Auto-debit,Mumbai,False
+TXN00440,2024-08-13,Bank,Expense,Travel,931.32,Bank Transfer,Other,False
+TXN00441,2025-08-31,UPI Wallet,Expense,Rent,16770.09,UPI,Bengaluru,True
+TXN00442,2025-03-13,UPI Wallet,Expense,Dining,517.72,UPI,Hyderabad,False
+TXN00443,2025-07-28,Bank,Expense,Travel,10641.6,Card,Bengaluru,False
+TXN00444,2025-02-02,Cash,Expense,Healthcare,10209.06,UPI,Pune,True
+TXN00445,2025-07-25,UPI Wallet,Expense,Healthcare,1400.94,UPI,Hyderabad,True
+TXN00446,2025-06-12,UPI Wallet,Expense,Utilities,1933.98,UPI,Other,True
+TXN00447,2025-01-15,Bank,Expense,Groceries,4114.19,Card,Delhi,True
+TXN00448,2024-11-30,UPI Wallet,Expense,Travel,15443.43,UPI,Mumbai,False
+TXN00449,2024-11-28,UPI Wallet,Expense,Utilities,1467.65,UPI,Pune,True
+TXN00450,2025-11-23,Credit Card,Expense,Groceries,1505.56,Cash,Other,True
+TXN00451,2025-03-14,Credit Card,Expense,Dining,260.76,UPI,Mumbai,False
+TXN00452,2024-12-24,Credit Card,Expense,Travel,13657.81,UPI,Delhi,False
+TXN00453,2024-08-30,UPI Wallet,Income,Salary,35360.64,Bank Transfer,Hyderabad,False
+TXN00454,2024-01-12,Credit Card,Expense,Travel,1769.97,UPI,Pune,False
+TXN00455,2024-05-05,UPI Wallet,Income,Salary,39252.86,UPI,Bengaluru,False
+TXN00456,2025-02-26,UPI Wallet,Expense,Shopping,7249.16,Cash,Mumbai,False
+TXN00457,2024-02-04,UPI Wallet,Expense,Subscriptions,788.48,Cash,Hyderabad,False
+TXN00458,2025-07-10,Credit Card,Expense,Healthcare,3888.59,Auto-debit,Pune,True
+TXN00459,2024-09-18,UPI Wallet,Income,Business Income,5543.67,UPI,Bengaluru,False
+TXN00460,2024-12-31,Bank,Expense,Groceries,2692.58,UPI,Delhi,True
+TXN00461,2025-02-20,Cash,Income,Business Income,28547.45,UPI,Mumbai,False
+TXN00462,2024-08-12,Bank,Expense,Rent,8760.95,Bank Transfer,Delhi,True
+TXN00463,2025-03-16,Cash,Expense,Healthcare,6146.85,Cash,Delhi,True
+TXN00464,2025-02-06,Credit Card,Expense,Education,4295.33,UPI,Bengaluru,True
+TXN00465,2024-08-28,UPI Wallet,Expense,Groceries,1747.97,Auto-debit,Delhi,True
+TXN00466,2025-05-08,Bank,Expense,Healthcare,8234.43,Auto-debit,Other,True
+TXN00467,2024-07-20,Bank,Expense,Shopping,5367.38,Auto-debit,Delhi,False
+TXN00468,2025-04-02,Bank,Expense,Education,10285.92,Bank Transfer,Delhi,True
+TXN00469,2024-01-16,Credit Card,Expense,Transport,1829.22,Card,Delhi,True
+TXN00470,2024-10-24,Bank,Expense,Healthcare,10936.97,Cash,Pune,True
+TXN00471,2024-11-07,Bank,Expense,Transport,154.42,Auto-debit,Hyderabad,True
+TXN00472,2024-10-06,Bank,Expense,Subscriptions,1211.55,Bank Transfer,Delhi,False
+TXN00473,2025-10-01,UPI Wallet,Expense,Dining,1864.23,Bank Transfer,Hyderabad,False
+TXN00474,2025-08-15,UPI Wallet,Expense,Travel,8893.0,Auto-debit,Bengaluru,False
+TXN00475,2025-06-05,UPI Wallet,Expense,Subscriptions,1428.76,Auto-debit,Hyderabad,False
+TXN00476,2024-07-10,Credit Card,Expense,Education,2635.76,Bank Transfer,Delhi,True
+TXN00477,2024-10-18,Bank,Expense,Education,10506.67,Auto-debit,Pune,True
+TXN00478,2024-10-08,UPI Wallet,Expense,Healthcare,3242.68,Auto-debit,Delhi,True
+TXN00479,2025-06-14,UPI Wallet,Expense,Travel,16418.71,Cash,Pune,False
+TXN00480,2025-04-29,Bank,Income,Business Income,35805.09,Card,Bengaluru,False
+TXN00481,2024-04-14,Bank,Expense,Shopping,5590.85,Auto-debit,Bengaluru,False
+TXN00482,2024-10-30,Credit Card,Expense,Utilities,2875.64,Cash,Delhi,True
+TXN00483,2025-03-08,Bank,Expense,Groceries,4200.76,Card,Hyderabad,True
+TXN00484,2024-10-17,Credit Card,Expense,Dining,2468.96,UPI,Bengaluru,False
+TXN00485,2024-02-15,Credit Card,Expense,Education,3084.36,Cash,Bengaluru,True
+TXN00486,2024-04-01,Bank,Expense,Utilities,2529.71,UPI,Mumbai,True
+TXN00487,2025-12-16,Bank,Expense,Education,14514.12,Card,Pune,True
+TXN00488,2025-01-10,Bank,Income,Interest,55596.04,Bank Transfer,Hyderabad,False
+TXN00489,2024-04-13,Bank,Expense,Shopping,6337.3,Auto-debit,Pune,False
+TXN00490,2025-12-24,Credit Card,Expense,Rent,9242.0,Card,Mumbai,True
+TXN00491,2025-11-18,Credit Card,Expense,Education,2966.41,Auto-debit,Delhi,True
+TXN00492,2025-09-17,Bank,Expense,Shopping,1778.65,UPI,Hyderabad,False
+TXN00493,2025-02-05,UPI Wallet,Income,Freelance,2486.66,Cash,Delhi,False
+TXN00494,2025-07-27,UPI Wallet,Expense,Education,4741.48,Card,Mumbai,True
+TXN00495,2025-12-22,Bank,Expense,Utilities,2491.84,Cash,Hyderabad,True
+TXN00496,2024-12-20,Bank,Expense,Shopping,9317.69,Card,Hyderabad,False
+TXN00497,2025-12-26,Bank,Expense,Dining,1886.15,Bank Transfer,Bengaluru,False
+TXN00498,2025-08-24,Credit Card,Income,Business Income,1870.56,Cash,Mumbai,False
+TXN00499,2025-04-04,Bank,Expense,Dining,2615.6,UPI,Delhi,False
+TXN00500,2025-10-29,Bank,Expense,Travel,19818.47,UPI,Delhi,False
+TXN00501,2024-10-19,UPI Wallet,Expense,Dining,2822.63,Auto-debit,Pune,False
+TXN00502,2024-06-08,Bank,Expense,Subscriptions,1448.96,Auto-debit,Hyderabad,False
+TXN00503,2025-11-29,Bank,Expense,Rent,14376.45,Bank Transfer,Other,True
+TXN00504,2024-12-28,Cash,Income,Freelance,59957.25,Card,Bengaluru,False
+TXN00505,2025-05-15,Credit Card,Expense,Groceries,617.09,Card,Mumbai,True
+TXN00506,2025-09-18,Bank,Expense,Utilities,1298.95,Auto-debit,Delhi,True
+TXN00507,2024-04-23,Bank,Expense,Healthcare,11957.86,Cash,Mumbai,True
+TXN00508,2025-08-23,Credit Card,Expense,Education,667.72,Bank Transfer,Pune,True
+TXN00509,2025-05-25,UPI Wallet,Income,Freelance,37889.57,Bank Transfer,Delhi,False
+TXN00510,2025-10-07,UPI Wallet,Income,Interest,904.88,Cash,Delhi,False
+TXN00511,2024-06-04,Bank,Expense,Education,1133.88,Bank Transfer,Pune,True
+TXN00512,2025-12-01,UPI Wallet,Expense,Education,5783.76,Cash,Mumbai,True
+TXN00513,2024-04-04,Bank,Expense,Rent,20176.65,Cash,Bengaluru,True
+TXN00514,2024-07-28,UPI Wallet,Expense,Groceries,1587.33,Card,Bengaluru,True
+TXN00515,2025-01-12,Cash,Expense,Dining,2931.42,Cash,Pune,False
+TXN00516,2025-03-03,UPI Wallet,Expense,Utilities,2457.75,Bank Transfer,Other,True
+TXN00517,2025-09-27,Credit Card,Expense,Healthcare,5590.91,Auto-debit,Pune,True
+TXN00518,2024-04-26,UPI Wallet,Expense,Utilities,795.16,Card,Bengaluru,True
+TXN00519,2025-11-15,UPI Wallet,Income,Business Income,41712.41,Card,Bengaluru,False
+TXN00520,2025-01-19,Cash,Expense,Travel,17551.09,Auto-debit,Pune,False
+TXN00521,2025-05-08,Cash,Expense,Shopping,1966.19,Bank Transfer,Other,False
+TXN00522,2024-02-23,Bank,Expense,Education,9077.23,Auto-debit,Pune,True
+TXN00523,2024-05-05,Cash,Expense,Subscriptions,633.94,UPI,Other,False
+TXN00524,2024-11-02,Cash,Income,Business Income,44986.64,Card,Hyderabad,False
+TXN00525,2025-01-31,Bank,Expense,Healthcare,9074.3,Auto-debit,Other,True
+TXN00526,2025-01-15,UPI Wallet,Expense,Subscriptions,657.54,Bank Transfer,Mumbai,False
+TXN00527,2024-04-26,Bank,Expense,Shopping,8147.1,Card,Bengaluru,False
+TXN00528,2025-05-23,Bank,Expense,Shopping,4720.88,Card,Pune,False
+TXN00529,2024-06-15,Bank,Expense,Education,508.63,Auto-debit,Pune,True
+TXN00530,2024-06-06,Bank,Expense,Dining,2440.68,Card,Delhi,False
+TXN00531,2024-03-14,Credit Card,Expense,Dining,2250.78,UPI,Hyderabad,False
+TXN00532,2025-10-03,Bank,Expense,Dining,2072.03,UPI,Bengaluru,False
+TXN00533,2025-05-14,Credit Card,Income,Freelance,6435.83,Auto-debit,Pune,False
+TXN00534,2024-01-21,Cash,Expense,Groceries,2797.27,Cash,Other,True
+TXN00535,2024-04-05,UPI Wallet,Expense,Utilities,803.79,Auto-debit,Pune,True
+TXN00536,2025-03-25,Credit Card,Expense,Shopping,9129.13,Cash,Delhi,False
+TXN00537,2025-04-18,UPI Wallet,Expense,Groceries,2425.53,Bank Transfer,Bengaluru,True
+TXN00538,2025-10-29,Bank,Expense,Subscriptions,116.32,Card,Pune,False
+TXN00539,2025-12-01,Credit Card,Expense,Transport,858.9,Card,Pune,True
+TXN00540,2025-09-24,UPI Wallet,Expense,Utilities,3243.28,Bank Transfer,Delhi,True
+TXN00541,2025-09-10,UPI Wallet,Expense,Utilities,1233.03,UPI,Bengaluru,True
+TXN00542,2025-01-18,Bank,Expense,Education,3448.43,UPI,Pune,True
+TXN00543,2025-11-23,UPI Wallet,Expense,Dining,2268.15,Auto-debit,Other,False
+TXN00544,2024-04-14,UPI Wallet,Expense,Travel,577.32,Cash,Pune,False
+TXN00545,2025-03-12,Cash,Expense,Subscriptions,649.71,Cash,Mumbai,False
+TXN00546,2024-03-12,Cash,Income,Business Income,64416.86,Card,Hyderabad,False
+TXN00547,2025-07-16,Bank,Expense,Groceries,1737.68,Bank Transfer,Bengaluru,True
+TXN00548,2025-06-04,Credit Card,Expense,Utilities,2304.61,UPI,Bengaluru,True
+TXN00549,2025-12-23,Bank,Expense,Dining,626.56,Bank Transfer,Mumbai,False
+TXN00550,2024-04-01,Credit Card,Expense,Utilities,2411.14,UPI,Bengaluru,True
+TXN00551,2025-06-04,Bank,Income,Business Income,53448.16,Bank Transfer,Hyderabad,False
+TXN00552,2024-02-13,UPI Wallet,Expense,Transport,1929.24,Bank Transfer,Mumbai,True
+TXN00553,2024-03-03,UPI Wallet,Income,Business Income,48249.59,Card,Bengaluru,False
+TXN00554,2024-11-23,Credit Card,Income,Salary,7214.55,Cash,Mumbai,False
+TXN00555,2025-11-29,UPI Wallet,Income,Freelance,43042.14,Cash,Mumbai,False
+TXN00556,2024-05-15,Cash,Income,Business Income,23943.93,Card,Other,False
+TXN00557,2024-08-15,Bank,Expense,Rent,11345.26,UPI,Bengaluru,True
+TXN00558,2025-08-12,Bank,Income,Salary,43692.91,UPI,Hyderabad,False
+TXN00559,2025-12-23,Bank,Income,Business Income,47518.55,Auto-debit,Delhi,False
+TXN00560,2025-01-31,Bank,Expense,Transport,2338.99,Cash,Mumbai,True
+TXN00561,2024-09-03,UPI Wallet,Expense,Education,7451.81,Cash,Mumbai,True
+TXN00562,2025-09-17,UPI Wallet,Expense,Groceries,2990.48,Bank Transfer,Other,True
+TXN00563,2025-01-05,UPI Wallet,Expense,Rent,6414.62,Auto-debit,Other,True
+TXN00564,2024-10-11,Cash,Expense,Travel,11593.18,Card,Other,False
+TXN00565,2024-06-17,Credit Card,Expense,Dining,2393.35,Bank Transfer,Bengaluru,False
+TXN00566,2025-11-04,UPI Wallet,Expense,Education,14589.27,Auto-debit,Hyderabad,True
+TXN00567,2024-11-20,Credit Card,Expense,Education,9203.83,UPI,Delhi,True
+TXN00568,2025-12-15,Bank,Expense,Education,396.04,Bank Transfer,Pune,True
+TXN00569,2024-05-21,Bank,Expense,Shopping,8687.95,Auto-debit,Pune,False
+TXN00570,2025-02-07,Cash,Expense,Transport,518.78,Auto-debit,Delhi,True
+TXN00571,2024-11-07,Cash,Expense,Rent,12463.46,Card,Mumbai,True
+TXN00572,2024-05-16,Credit Card,Expense,Dining,2638.37,Auto-debit,Other,False
+TXN00573,2025-12-18,UPI Wallet,Expense,Education,2299.02,Card,Pune,True
+TXN00574,2024-02-09,Credit Card,Expense,Groceries,2878.43,Cash,Pune,True
+TXN00575,2024-01-14,Bank,Expense,Groceries,3123.3,Card,Bengaluru,True
+TXN00576,2025-11-02,UPI Wallet,Expense,Healthcare,1463.99,Card,Delhi,True
+TXN00577,2024-07-04,UPI Wallet,Expense,Education,2663.48,Bank Transfer,Mumbai,True
+TXN00578,2025-01-07,UPI Wallet,Expense,Groceries,3461.83,Cash,Bengaluru,True
+TXN00579,2024-03-15,Bank,Expense,Travel,17553.75,Card,Other,False
+TXN00580,2024-05-27,UPI Wallet,Income,Salary,43319.81,Bank Transfer,Other,False
+TXN00581,2025-09-02,Bank,Expense,Transport,981.69,Card,Delhi,True
+TXN00582,2024-09-30,Credit Card,Expense,Transport,1517.25,UPI,Other,True
+TXN00583,2025-09-07,UPI Wallet,Expense,Travel,12406.51,Bank Transfer,Pune,False
+TXN00584,2025-11-11,UPI Wallet,Expense,Dining,1150.14,UPI,Hyderabad,False
+TXN00585,2025-12-12,Cash,Expense,Groceries,3270.16,Bank Transfer,Delhi,True
+TXN00586,2025-12-03,Cash,Expense,Utilities,984.37,UPI,Delhi,True
+TXN00587,2024-10-31,Credit Card,Expense,Groceries,1272.92,Bank Transfer,Pune,True
+TXN00588,2024-05-30,UPI Wallet,Expense,Subscriptions,715.21,Bank Transfer,Hyderabad,False
+TXN00589,2025-07-07,UPI Wallet,Expense,Healthcare,2748.21,Auto-debit,Pune,True
+TXN00590,2025-01-04,UPI Wallet,Income,Freelance,15788.61,Bank Transfer,Other,False
+TXN00591,2024-04-20,Credit Card,Expense,Subscriptions,1062.72,Cash,Other,False
+TXN00592,2025-08-12,Credit Card,Expense,Healthcare,9468.73,Auto-debit,Other,True
+TXN00593,2025-09-22,Bank,Income,Interest,60945.31,Card,Delhi,False
+TXN00594,2025-06-12,UPI Wallet,Expense,Education,5183.0,Cash,Bengaluru,True
+TXN00595,2024-12-11,UPI Wallet,Expense,Dining,1381.95,Card,Delhi,False
+TXN00596,2025-04-24,Bank,Expense,Travel,6085.89,Card,Bengaluru,False
+TXN00597,2024-04-12,Bank,Expense,Healthcare,8790.83,UPI,Mumbai,True
+TXN00598,2025-08-28,Credit Card,Expense,Dining,362.94,Auto-debit,Other,False
+TXN00599,2025-10-18,Cash,Expense,Travel,7577.93,Bank Transfer,Pune,False
+TXN00600,2025-08-18,Bank,Expense,Travel,8799.35,Auto-debit,Bengaluru,False
+TXN00601,2024-11-20,Cash,Expense,Rent,15580.51,UPI,Delhi,True
+TXN00602,2025-03-18,Credit Card,Expense,Travel,17072.79,Bank Transfer,Delhi,False
+TXN00603,2024-01-14,Bank,Expense,Groceries,600.99,Auto-debit,Delhi,True
+TXN00604,2024-12-24,Bank,Income,Freelance,27434.86,Auto-debit,Pune,False
+TXN00605,2025-03-07,UPI Wallet,Expense,Utilities,2184.83,Cash,Hyderabad,True
+TXN00606,2025-08-21,Credit Card,Expense,Dining,1697.34,Cash,Other,False
+TXN00607,2025-10-18,UPI Wallet,Income,Salary,11164.78,UPI,Delhi,False
+TXN00608,2025-07-12,Credit Card,Expense,Transport,1840.52,Card,Mumbai,True
+TXN00609,2024-04-30,Bank,Expense,Utilities,605.42,Cash,Delhi,True
+TXN00610,2024-05-23,Bank,Income,Freelance,13148.93,UPI,Pune,False
+TXN00611,2025-10-04,Credit Card,Expense,Subscriptions,218.51,Auto-debit,Bengaluru,False
+TXN00612,2025-01-03,UPI Wallet,Expense,Groceries,3110.15,Cash,Other,True
+TXN00613,2025-08-12,UPI Wallet,Expense,Transport,771.78,Auto-debit,Pune,True
+TXN00614,2025-03-08,Credit Card,Expense,Rent,11106.81,Auto-debit,Bengaluru,True
+TXN00615,2024-02-02,Bank,Expense,Healthcare,1160.14,Cash,Pune,True
+TXN00616,2025-12-06,UPI Wallet,Expense,Education,1511.01,UPI,Pune,True
+TXN00617,2025-10-02,Cash,Expense,Travel,16178.96,UPI,Hyderabad,False
+TXN00618,2024-12-15,Cash,Expense,Education,10376.65,Auto-debit,Hyderabad,True
+TXN00619,2024-07-16,UPI Wallet,Expense,Dining,1101.73,Bank Transfer,Hyderabad,False
+TXN00620,2024-07-18,UPI Wallet,Expense,Rent,9525.03,Card,Bengaluru,True
+TXN00621,2025-08-14,Bank,Expense,Utilities,1445.32,UPI,Hyderabad,True
+TXN00622,2024-05-20,Bank,Expense,Dining,1800.16,Bank Transfer,Bengaluru,False
+TXN00623,2025-03-06,Bank,Expense,Dining,770.45,Bank Transfer,Other,False
+TXN00624,2025-11-12,UPI Wallet,Expense,Education,4917.98,Bank Transfer,Delhi,True
+TXN00625,2025-01-15,Cash,Income,Salary,25981.38,Card,Bengaluru,False
+TXN00626,2025-02-05,Bank,Income,Freelance,42861.21,Card,Other,False
+TXN00627,2024-11-19,Cash,Expense,Dining,2245.59,UPI,Delhi,False
+TXN00628,2024-07-02,UPI Wallet,Expense,Travel,11999.3,UPI,Mumbai,False
+TXN00629,2024-07-09,Bank,Expense,Utilities,1611.19,UPI,Mumbai,True
+TXN00630,2024-11-04,Bank,Income,Interest,28266.66,UPI,Hyderabad,False
+TXN00631,2024-12-01,UPI Wallet,Expense,Groceries,1860.0,UPI,Mumbai,True
+TXN00632,2024-01-22,Bank,Expense,Subscriptions,816.92,Card,Hyderabad,False
+TXN00633,2025-09-06,UPI Wallet,Expense,Utilities,2698.76,Bank Transfer,Bengaluru,True
+TXN00634,2024-01-03,Bank,Expense,Transport,2266.84,UPI,Mumbai,True
+TXN00635,2024-06-18,Credit Card,Expense,Dining,2765.18,Bank Transfer,Delhi,False
+TXN00636,2024-09-07,Bank,Expense,Transport,756.24,Cash,Mumbai,True
+TXN00637,2025-11-15,UPI Wallet,Expense,Groceries,3643.65,Bank Transfer,Delhi,True
+TXN00638,2025-06-01,UPI Wallet,Expense,Rent,17682.19,Bank Transfer,Pune,True
+TXN00639,2024-04-28,Credit Card,Expense,Transport,120.29,Bank Transfer,Hyderabad,True
+TXN00640,2025-06-19,UPI Wallet,Expense,Dining,1111.13,Card,Mumbai,False
+TXN00641,2024-12-30,UPI Wallet,Expense,Travel,3209.7,Card,Bengaluru,False
+TXN00642,2024-01-04,Cash,Expense,Travel,15301.27,Card,Other,False
+TXN00643,2024-10-29,Credit Card,Income,Business Income,56951.4,Cash,Delhi,False
+TXN00644,2025-05-14,Credit Card,Expense,Education,751.7,Cash,Other,True
+TXN00645,2024-12-23,Bank,Expense,Groceries,219.67,Bank Transfer,Hyderabad,True
+TXN00646,2025-07-08,Credit Card,Expense,Education,7837.33,Auto-debit,Other,True
+TXN00647,2025-12-25,UPI Wallet,Expense,Dining,2036.51,Card,Delhi,False
+TXN00648,2024-06-18,Credit Card,Expense,Healthcare,6547.42,Cash,Other,True
+TXN00649,2025-03-02,UPI Wallet,Expense,Dining,333.05,Card,Hyderabad,False
+TXN00650,2024-04-21,Bank,Expense,Subscriptions,1367.66,Bank Transfer,Delhi,False
+TXN00651,2024-10-21,Bank,Expense,Subscriptions,150.69,Card,Hyderabad,False
+TXN00652,2025-05-31,UPI Wallet,Expense,Education,3285.12,UPI,Hyderabad,True
+TXN00653,2024-12-13,UPI Wallet,Expense,Education,7043.31,Bank Transfer,Mumbai,True
+TXN00654,2025-02-18,UPI Wallet,Expense,Groceries,1721.93,Cash,Pune,True
+TXN00655,2024-12-16,Credit Card,Expense,Travel,16014.27,Auto-debit,Other,False
+TXN00656,2024-10-17,Credit Card,Income,Salary,51483.41,Bank Transfer,Mumbai,False
+TXN00657,2025-06-26,Credit Card,Expense,Healthcare,10916.66,Cash,Other,True
+TXN00658,2025-02-27,UPI Wallet,Expense,Shopping,5730.65,UPI,Bengaluru,False
+TXN00659,2024-07-18,Credit Card,Expense,Travel,19741.11,UPI,Pune,False
+TXN00660,2025-08-15,Credit Card,Expense,Dining,1787.06,Cash,Mumbai,False
+TXN00661,2025-06-29,UPI Wallet,Income,Salary,24448.03,Bank Transfer,Bengaluru,False
+TXN00662,2024-03-09,UPI Wallet,Expense,Groceries,558.25,Card,Other,True
+TXN00663,2025-04-12,Bank,Expense,Utilities,2281.85,Bank Transfer,Pune,True
+TXN00664,2025-01-09,UPI Wallet,Expense,Travel,8342.08,Card,Hyderabad,False
+TXN00665,2025-04-02,UPI Wallet,Expense,Travel,19406.52,Card,Delhi,False
+TXN00666,2024-07-21,Cash,Expense,Rent,18707.51,Cash,Hyderabad,True
+TXN00667,2024-03-01,UPI Wallet,Expense,Dining,1476.76,Cash,Other,False
+TXN00668,2024-07-27,Bank,Income,Salary,16519.32,UPI,Mumbai,False
+TXN00669,2025-01-13,Credit Card,Expense,Transport,1919.28,Auto-debit,Delhi,True
+TXN00670,2025-07-19,UPI Wallet,Expense,Education,9729.38,Card,Mumbai,True
+TXN00671,2024-08-28,UPI Wallet,Expense,Subscriptions,157.51,Cash,Hyderabad,False
+TXN00672,2025-04-19,UPI Wallet,Expense,Education,13193.18,Cash,Delhi,True
+TXN00673,2025-05-18,Credit Card,Income,Business Income,44019.11,Bank Transfer,Other,False
+TXN00674,2025-10-10,Credit Card,Expense,Transport,1812.18,Card,Hyderabad,True
+TXN00675,2025-07-13,Bank,Expense,Travel,17822.42,Auto-debit,Mumbai,False
+TXN00676,2024-09-24,Bank,Expense,Healthcare,5248.9,UPI,Bengaluru,True
+TXN00677,2024-11-22,UPI Wallet,Income,Interest,46850.11,Card,Pune,False
+TXN00678,2025-01-04,Credit Card,Expense,Groceries,839.52,UPI,Bengaluru,True
+TXN00679,2024-08-23,Bank,Expense,Education,11193.62,Bank Transfer,Bengaluru,True
+TXN00680,2024-04-15,UPI Wallet,Expense,Shopping,8583.68,Bank Transfer,Mumbai,False
+TXN00681,2025-02-13,Bank,Expense,Healthcare,2222.78,Bank Transfer,Bengaluru,True
+TXN00682,2025-09-15,UPI Wallet,Income,Business Income,6473.16,Auto-debit,Pune,False
+TXN00683,2024-12-10,Bank,Expense,Shopping,1770.64,Cash,Delhi,False
+TXN00684,2025-03-28,UPI Wallet,Expense,Groceries,599.13,Bank Transfer,Pune,True
+TXN00685,2025-04-11,Bank,Expense,Transport,1086.65,Cash,Other,True
+TXN00686,2025-10-27,UPI Wallet,Expense,Shopping,6853.53,Auto-debit,Other,False
+TXN00687,2025-02-26,UPI Wallet,Expense,Healthcare,5920.42,Cash,Delhi,True
+TXN00688,2025-04-07,Bank,Expense,Education,4927.33,Auto-debit,Hyderabad,True
+TXN00689,2025-10-29,UPI Wallet,Expense,Dining,2532.16,Bank Transfer,Hyderabad,False
+TXN00690,2024-04-08,Bank,Income,Interest,23201.28,Auto-debit,Mumbai,False
+TXN00691,2024-04-21,Credit Card,Expense,Subscriptions,1122.95,Card,Bengaluru,False
+TXN00692,2025-02-15,Bank,Expense,Rent,10591.17,Bank Transfer,Pune,True
+TXN00693,2025-09-22,Credit Card,Expense,Education,11700.78,Cash,Pune,True
+TXN00694,2025-11-25,UPI Wallet,Expense,Groceries,2333.21,Bank Transfer,Hyderabad,True
+TXN00695,2024-10-27,Bank,Expense,Shopping,5971.89,Card,Other,False
+TXN00696,2024-05-02,Credit Card,Expense,Dining,2150.85,Cash,Hyderabad,False
+TXN00697,2025-05-28,Bank,Expense,Shopping,6246.36,UPI,Mumbai,False
+TXN00698,2024-08-27,Bank,Expense,Groceries,2744.15,UPI,Pune,True
+TXN00699,2024-05-19,Bank,Expense,Healthcare,11360.8,Bank Transfer,Other,True
+TXN00700,2025-04-17,Bank,Income,Salary,25897.88,UPI,Hyderabad,False
+TXN00701,2025-08-21,Cash,Expense,Subscriptions,1180.95,UPI,Other,False
+TXN00702,2025-02-20,UPI Wallet,Expense,Education,13340.98,Auto-debit,Pune,True
+TXN00703,2024-08-31,Bank,Income,Interest,40559.21,Card,Hyderabad,False
+TXN00704,2024-05-13,UPI Wallet,Expense,Rent,16718.95,Bank Transfer,Mumbai,True
+TXN00705,2025-11-09,Credit Card,Expense,Utilities,2988.23,Card,Pune,True
+TXN00706,2024-04-27,Cash,Income,Business Income,55620.42,Auto-debit,Hyderabad,False
+TXN00707,2025-04-19,UPI Wallet,Expense,Travel,15442.15,Bank Transfer,Bengaluru,False
+TXN00708,2024-04-17,Bank,Expense,Education,4662.73,UPI,Other,True
+TXN00709,2024-12-29,Bank,Income,Interest,64294.97,Cash,Mumbai,False
+TXN00710,2025-01-26,Cash,Expense,Rent,23050.93,Card,Delhi,True
+TXN00711,2025-08-28,Credit Card,Expense,Utilities,1369.92,Card,Pune,True
+TXN00712,2025-10-28,Bank,Expense,Dining,1420.64,UPI,Bengaluru,False
+TXN00713,2025-10-03,Credit Card,Expense,Subscriptions,878.94,Auto-debit,Delhi,False
+TXN00714,2025-01-01,Bank,Income,Freelance,40693.31,Cash,Pune,False
+TXN00715,2025-01-12,UPI Wallet,Expense,Dining,752.26,UPI,Bengaluru,False
+TXN00716,2024-10-26,Bank,Expense,Education,13708.41,Card,Pune,True
+TXN00717,2024-06-04,Cash,Expense,Education,499.58,Auto-debit,Bengaluru,True
+TXN00718,2024-06-02,Bank,Expense,Groceries,721.71,Cash,Other,True
+TXN00719,2024-04-24,Bank,Expense,Rent,20351.98,Card,Bengaluru,True
+TXN00720,2025-10-09,Credit Card,Income,Freelance,21918.62,Cash,Other,False
+TXN00721,2025-06-16,UPI Wallet,Income,Freelance,50081.18,Card,Pune,False
+TXN00722,2025-12-22,UPI Wallet,Expense,Dining,1498.13,UPI,Mumbai,False
+TXN00723,2024-08-26,Credit Card,Income,Salary,59044.22,Bank Transfer,Hyderabad,False
+TXN00724,2025-06-03,Bank,Expense,Subscriptions,1204.35,Card,Hyderabad,False
+TXN00725,2024-01-26,UPI Wallet,Expense,Healthcare,11947.78,Auto-debit,Delhi,True
+TXN00726,2025-01-11,Bank,Expense,Groceries,3932.28,Bank Transfer,Delhi,True
+TXN00727,2024-10-20,Credit Card,Expense,Utilities,1783.82,Card,Mumbai,True
+TXN00728,2025-10-29,Bank,Income,Salary,37125.09,Auto-debit,Bengaluru,False
+TXN00729,2024-11-21,UPI Wallet,Expense,Education,10166.95,Auto-debit,Pune,True
+TXN00730,2025-01-18,Credit Card,Expense,Groceries,1009.02,Cash,Hyderabad,True
+TXN00731,2025-09-28,Cash,Income,Freelance,20322.35,Auto-debit,Other,False
+TXN00732,2024-09-09,Bank,Expense,Education,3455.09,Bank Transfer,Delhi,True
+TXN00733,2025-10-29,Bank,Expense,Dining,2957.53,Card,Pune,False
+TXN00734,2024-05-16,UPI Wallet,Expense,Subscriptions,603.21,Cash,Delhi,False
+TXN00735,2025-09-07,Bank,Income,Business Income,10210.79,UPI,Delhi,False
+TXN00736,2024-04-10,UPI Wallet,Expense,Healthcare,2610.01,Auto-debit,Other,True
+TXN00737,2025-02-11,UPI Wallet,Income,Interest,52579.72,Auto-debit,Hyderabad,False
+TXN00738,2024-11-24,UPI Wallet,Expense,Education,12951.77,Bank Transfer,Pune,True
+TXN00739,2024-03-28,UPI Wallet,Expense,Utilities,1796.75,Card,Mumbai,True
+TXN00740,2024-10-11,Credit Card,Expense,Education,9728.79,UPI,Mumbai,True
+TXN00741,2024-03-26,Bank,Expense,Subscriptions,1153.41,Bank Transfer,Hyderabad,False
+TXN00742,2024-05-31,UPI Wallet,Income,Freelance,53618.87,UPI,Pune,False
+TXN00743,2025-06-20,Bank,Expense,Healthcare,5544.77,UPI,Mumbai,True
+TXN00744,2025-01-06,UPI Wallet,Expense,Utilities,1981.08,Card,Pune,True
+TXN00745,2025-05-05,UPI Wallet,Expense,Travel,7875.19,Cash,Pune,False
+TXN00746,2025-06-16,Bank,Expense,Subscriptions,336.46,UPI,Hyderabad,False
+TXN00747,2025-05-31,UPI Wallet,Income,Freelance,33212.37,UPI,Bengaluru,False
+TXN00748,2025-03-26,Bank,Income,Salary,41910.06,Auto-debit,Pune,False
+TXN00749,2025-01-25,UPI Wallet,Expense,Dining,1292.06,Auto-debit,Mumbai,False
+TXN00750,2025-07-19,UPI Wallet,Expense,Healthcare,1541.14,Bank Transfer,Mumbai,True
+TXN00751,2025-10-03,Credit Card,Expense,Shopping,4559.84,Card,Bengaluru,False
+TXN00752,2025-08-14,Credit Card,Expense,Subscriptions,1338.4,Cash,Hyderabad,False
+TXN00753,2024-11-12,UPI Wallet,Expense,Dining,555.93,UPI,Delhi,False
+TXN00754,2024-04-09,Bank,Expense,Rent,12368.93,Auto-debit,Pune,True
+TXN00755,2024-08-31,Bank,Expense,Dining,1875.1,UPI,Mumbai,False
+TXN00756,2025-12-26,Bank,Expense,Dining,836.58,Bank Transfer,Mumbai,False
+TXN00757,2025-05-19,UPI Wallet,Income,Interest,52330.85,Card,Hyderabad,False
+TXN00758,2024-04-29,Bank,Expense,Transport,2145.87,Auto-debit,Hyderabad,True
+TXN00759,2024-09-25,Bank,Expense,Education,12795.86,Auto-debit,Hyderabad,True
+TXN00760,2025-06-23,UPI Wallet,Expense,Subscriptions,1283.37,Cash,Other,False
+TXN00761,2025-11-11,Credit Card,Income,Interest,22832.34,UPI,Hyderabad,False
+TXN00762,2025-02-20,UPI Wallet,Expense,Shopping,5455.91,Card,Other,False
+TXN00763,2025-10-03,Bank,Expense,Shopping,3193.55,UPI,Delhi,False
+TXN00764,2025-01-13,UPI Wallet,Expense,Subscriptions,636.01,UPI,Bengaluru,False
+TXN00765,2025-08-02,UPI Wallet,Expense,Subscriptions,308.23,Card,Delhi,False
+TXN00766,2025-10-21,Cash,Expense,Healthcare,10656.68,UPI,Delhi,True
+TXN00767,2025-03-05,Bank,Expense,Education,12275.22,Card,Delhi,True
+TXN00768,2025-07-31,UPI Wallet,Income,Business Income,37930.13,Auto-debit,Other,False
+TXN00769,2024-05-23,Credit Card,Expense,Utilities,3405.02,Card,Hyderabad,True
+TXN00770,2024-02-11,Credit Card,Expense,Utilities,3173.9,Auto-debit,Delhi,True
+TXN00771,2024-12-24,Credit Card,Expense,Travel,16624.89,Card,Bengaluru,False
+TXN00772,2025-04-03,UPI Wallet,Expense,Healthcare,5876.5,Card,Hyderabad,True
+TXN00773,2024-08-16,Credit Card,Expense,Utilities,857.31,Cash,Hyderabad,True
+TXN00774,2024-12-27,UPI Wallet,Income,Interest,3835.36,Bank Transfer,Other,False
+TXN00775,2024-11-17,Credit Card,Expense,Rent,18969.63,UPI,Hyderabad,True
+TXN00776,2024-10-29,Credit Card,Expense,Shopping,7719.24,UPI,Other,False
+TXN00777,2025-07-09,Bank,Expense,Education,7773.11,Card,Hyderabad,True
+TXN00778,2024-01-25,Bank,Expense,Healthcare,5302.26,Cash,Bengaluru,True
+TXN00779,2024-05-27,Cash,Expense,Healthcare,4341.85,Cash,Mumbai,True
+TXN00780,2025-10-03,UPI Wallet,Expense,Transport,2237.07,UPI,Other,True
+TXN00781,2025-10-18,Credit Card,Expense,Education,11127.8,Card,Pune,True
+TXN00782,2024-08-27,Credit Card,Expense,Rent,12277.53,UPI,Mumbai,True
+TXN00783,2024-12-06,Bank,Expense,Transport,1974.42,Cash,Pune,True
+TXN00784,2025-12-31,Bank,Expense,Subscriptions,642.48,Auto-debit,Mumbai,False
+TXN00785,2024-11-26,Cash,Income,Business Income,37839.44,UPI,Delhi,False
+TXN00786,2025-08-18,UPI Wallet,Expense,Groceries,2939.97,Card,Hyderabad,True
+TXN00787,2024-03-22,Credit Card,Income,Interest,40783.51,Auto-debit,Hyderabad,False
+TXN00788,2025-08-09,UPI Wallet,Expense,Groceries,2732.29,Bank Transfer,Other,True
+TXN00789,2025-01-07,Bank,Expense,Subscriptions,1494.01,Bank Transfer,Delhi,False
+TXN00790,2025-03-09,Bank,Expense,Education,12030.29,Bank Transfer,Mumbai,True
+TXN00791,2024-08-25,Bank,Expense,Rent,8879.73,UPI,Delhi,True
+TXN00792,2025-08-29,Bank,Expense,Transport,2322.03,UPI,Pune,True
+TXN00793,2024-08-06,Cash,Income,Interest,62653.33,Card,Delhi,False
+TXN00794,2024-07-02,Credit Card,Expense,Transport,782.74,Cash,Other,True
+TXN00795,2024-10-27,Credit Card,Expense,Groceries,3001.3,Cash,Hyderabad,True
+TXN00796,2025-03-09,Bank,Income,Interest,46334.84,Auto-debit,Other,False
+TXN00797,2024-01-27,UPI Wallet,Expense,Dining,1576.08,Bank Transfer,Bengaluru,False
+TXN00798,2025-03-02,Bank,Expense,Shopping,6794.65,Bank Transfer,Pune,False
+TXN00799,2024-07-17,Bank,Expense,Travel,8820.67,Card,Delhi,False
+TXN00800,2024-11-10,Bank,Expense,Healthcare,11694.63,Card,Other,True
+TXN00801,2024-06-11,Credit Card,Income,Salary,11382.46,Cash,Mumbai,False
+TXN00802,2025-02-18,UPI Wallet,Expense,Shopping,9848.0,Auto-debit,Pune,False
+TXN00803,2024-02-28,UPI Wallet,Expense,Subscriptions,653.84,Auto-debit,Mumbai,False
+TXN00804,2025-07-06,Credit Card,Expense,Healthcare,3418.17,Card,Pune,True
+TXN00805,2024-06-26,UPI Wallet,Expense,Shopping,4306.3,Bank Transfer,Other,False
+TXN00806,2024-05-16,Bank,Expense,Education,1094.31,Auto-debit,Bengaluru,True
+TXN00807,2024-01-15,Cash,Expense,Subscriptions,915.34,Card,Mumbai,False
+TXN00808,2025-12-14,UPI Wallet,Income,Salary,30242.84,Auto-debit,Delhi,False
+TXN00809,2025-06-04,Bank,Expense,Travel,2674.69,Card,Mumbai,False
+TXN00810,2024-12-08,UPI Wallet,Expense,Groceries,1739.27,Auto-debit,Bengaluru,True
+TXN00811,2024-08-14,UPI Wallet,Expense,Utilities,1931.69,Auto-debit,Pune,True
+TXN00812,2025-05-21,Credit Card,Income,Business Income,37038.58,Cash,Delhi,False
+TXN00813,2024-12-05,Credit Card,Expense,Utilities,2196.7,Card,Hyderabad,True
+TXN00814,2025-10-24,Bank,Income,Salary,51584.19,Auto-debit,Bengaluru,False
+TXN00815,2025-06-24,Credit Card,Expense,Healthcare,11766.9,Cash,Hyderabad,True
+TXN00816,2025-12-09,UPI Wallet,Expense,Groceries,3055.95,Auto-debit,Hyderabad,True
+TXN00817,2025-09-25,UPI Wallet,Income,Salary,6132.22,Cash,Delhi,False
+TXN00818,2025-03-04,UPI Wallet,Income,Interest,54677.37,Auto-debit,Other,False
+TXN00819,2024-01-20,Bank,Expense,Transport,595.23,UPI,Mumbai,True
+TXN00820,2025-12-02,Bank,Expense,Dining,380.16,Bank Transfer,Mumbai,False
+TXN00821,2024-06-29,Credit Card,Expense,Rent,10023.02,UPI,Mumbai,True
+TXN00822,2025-02-24,Bank,Expense,Rent,20303.42,Card,Hyderabad,True
+TXN00823,2025-07-12,UPI Wallet,Expense,Shopping,6341.84,UPI,Mumbai,False
+TXN00824,2024-07-05,Credit Card,Expense,Rent,9405.7,Auto-debit,Other,True
+TXN00825,2025-07-17,Cash,Expense,Dining,1704.98,UPI,Hyderabad,False
+TXN00826,2025-02-07,Cash,Expense,Shopping,5374.83,UPI,Hyderabad,False
+TXN00827,2025-11-05,Credit Card,Expense,Shopping,7089.44,UPI,Delhi,False
+TXN00828,2024-03-27,UPI Wallet,Expense,Healthcare,2881.89,Bank Transfer,Delhi,True
+TXN00829,2024-07-23,Bank,Income,Freelance,4751.44,Auto-debit,Delhi,False
+TXN00830,2025-06-14,Bank,Expense,Utilities,2468.07,Cash,Hyderabad,True
+TXN00831,2025-10-11,Bank,Expense,Subscriptions,175.14,Auto-debit,Delhi,False
+TXN00832,2024-06-20,Bank,Expense,Healthcare,781.93,Card,Hyderabad,True
+TXN00833,2025-06-11,UPI Wallet,Expense,Travel,7176.98,UPI,Pune,False
+TXN00834,2024-10-30,UPI Wallet,Expense,Transport,1816.12,Card,Delhi,True
+TXN00835,2025-09-27,Cash,Income,Freelance,12247.33,Cash,Pune,False
+TXN00836,2024-10-02,UPI Wallet,Income,Freelance,16592.81,UPI,Other,False
+TXN00837,2025-11-27,Cash,Expense,Groceries,4437.08,Bank Transfer,Delhi,True
+TXN00838,2024-06-21,Credit Card,Expense,Travel,5262.0,UPI,Delhi,False
+TXN00839,2025-12-27,Credit Card,Expense,Healthcare,6119.66,UPI,Hyderabad,True
+TXN00840,2025-06-10,Bank,Expense,Travel,9244.53,Auto-debit,Other,False
+TXN00841,2024-06-08,UPI Wallet,Income,Freelance,17164.58,Bank Transfer,Delhi,False
+TXN00842,2024-08-21,UPI Wallet,Expense,Education,3469.93,Bank Transfer,Pune,True
+TXN00843,2024-02-19,Credit Card,Expense,Travel,3502.71,Card,Hyderabad,False
+TXN00844,2025-11-19,UPI Wallet,Expense,Transport,1909.46,Card,Mumbai,True
+TXN00845,2024-04-22,Cash,Expense,Utilities,3210.87,Cash,Delhi,True
+TXN00846,2024-01-05,Bank,Expense,Education,451.54,UPI,Hyderabad,True
+TXN00847,2025-03-05,Bank,Expense,Dining,741.63,Bank Transfer,Delhi,False
+TXN00848,2024-11-27,Credit Card,Income,Interest,1648.64,Card,Bengaluru,False
+TXN00849,2025-05-06,Cash,Expense,Dining,1220.12,UPI,Pune,False
+TXN00850,2024-12-05,Bank,Expense,Rent,12628.61,Bank Transfer,Hyderabad,True
+TXN00851,2024-06-02,Bank,Expense,Education,3712.38,UPI,Pune,True
+TXN00852,2025-03-03,UPI Wallet,Expense,Dining,2982.58,Card,Delhi,False
+TXN00853,2025-09-17,Credit Card,Income,Freelance,42918.29,Auto-debit,Delhi,False
+TXN00854,2024-03-28,UPI Wallet,Expense,Groceries,2017.79,Card,Mumbai,True
+TXN00855,2024-07-18,Bank,Expense,Education,10169.7,Cash,Mumbai,True
+TXN00856,2025-09-21,UPI Wallet,Expense,Shopping,1424.7,Auto-debit,Delhi,False
+TXN00857,2025-11-03,Bank,Expense,Travel,3762.95,Bank Transfer,Other,False
+TXN00858,2024-06-11,Bank,Income,Business Income,27881.17,Bank Transfer,Pune,False
+TXN00859,2025-08-14,UPI Wallet,Income,Interest,525.21,UPI,Other,False
+TXN00860,2024-10-06,Bank,Expense,Dining,2643.01,UPI,Mumbai,False
+TXN00861,2025-06-08,Credit Card,Expense,Education,2503.33,Cash,Other,True
+TXN00862,2025-02-16,Credit Card,Expense,Dining,426.62,Cash,Bengaluru,False
+TXN00863,2024-10-29,Cash,Expense,Utilities,2527.67,Card,Pune,True
+TXN00864,2024-01-04,Credit Card,Expense,Healthcare,9365.46,UPI,Bengaluru,True
+TXN00865,2024-09-21,Bank,Expense,Education,859.03,Card,Other,True
+TXN00866,2025-03-31,Bank,Expense,Groceries,528.84,Card,Delhi,True
+TXN00867,2025-07-14,UPI Wallet,Expense,Utilities,322.81,Card,Delhi,True
+TXN00868,2024-05-28,Credit Card,Expense,Healthcare,5181.27,Card,Hyderabad,True
+TXN00869,2024-05-23,Bank,Expense,Travel,4043.43,Auto-debit,Mumbai,False
+TXN00870,2025-07-09,Cash,Income,Business Income,5211.22,Cash,Bengaluru,False
+TXN00871,2024-06-30,Credit Card,Income,Business Income,38314.59,UPI,Bengaluru,False
+TXN00872,2024-07-29,Credit Card,Expense,Dining,1827.68,UPI,Bengaluru,False
+TXN00873,2024-10-30,UPI Wallet,Expense,Rent,17307.89,Auto-debit,Pune,True
+TXN00874,2025-03-15,Cash,Income,Interest,61425.58,Bank Transfer,Hyderabad,False
+TXN00875,2024-08-28,Credit Card,Expense,Dining,552.84,Card,Other,False
+TXN00876,2024-12-31,UPI Wallet,Expense,Rent,16405.52,Bank Transfer,Bengaluru,True
+TXN00877,2025-12-03,Credit Card,Expense,Travel,11829.24,Card,Hyderabad,False
+TXN00878,2025-10-06,Cash,Expense,Rent,12598.84,Card,Mumbai,True
+TXN00879,2024-12-05,Cash,Expense,Travel,18648.68,Card,Mumbai,False
+TXN00880,2024-09-17,Cash,Expense,Education,12068.76,Bank Transfer,Bengaluru,True
+TXN00881,2024-10-15,Credit Card,Income,Business Income,20463.31,Cash,Hyderabad,False
+TXN00882,2025-01-02,UPI Wallet,Expense,Utilities,591.25,Bank Transfer,Delhi,True
+TXN00883,2024-10-19,UPI Wallet,Expense,Travel,16545.72,UPI,Hyderabad,False
+TXN00884,2025-01-26,Bank,Expense,Shopping,5509.26,Auto-debit,Hyderabad,False
+TXN00885,2025-02-13,UPI Wallet,Expense,Utilities,505.85,Card,Bengaluru,True
+TXN00886,2024-03-21,Bank,Expense,Utilities,799.25,Cash,Bengaluru,True
+TXN00887,2025-03-11,Bank,Expense,Travel,12052.65,Bank Transfer,Delhi,False
+TXN00888,2025-01-31,Bank,Expense,Dining,2459.16,Card,Bengaluru,False
+TXN00889,2025-11-06,UPI Wallet,Income,Freelance,23884.7,Bank Transfer,Mumbai,False
+TXN00890,2024-12-23,Bank,Expense,Groceries,407.38,Cash,Bengaluru,True
+TXN00891,2024-11-04,Credit Card,Expense,Rent,12577.86,Bank Transfer,Other,True
+TXN00892,2024-05-04,Cash,Expense,Dining,127.44,Bank Transfer,Delhi,False
+TXN00893,2024-04-05,UPI Wallet,Expense,Education,3335.76,Bank Transfer,Hyderabad,True
+TXN00894,2025-03-30,UPI Wallet,Expense,Rent,23757.71,UPI,Bengaluru,True
+TXN00895,2024-10-26,Cash,Expense,Travel,13097.87,UPI,Bengaluru,False
+TXN00896,2025-01-08,Bank,Expense,Shopping,1910.94,UPI,Hyderabad,False
+TXN00897,2024-07-17,UPI Wallet,Income,Freelance,50072.33,Card,Bengaluru,False
+TXN00898,2024-04-13,Credit Card,Income,Salary,50758.24,Bank Transfer,Pune,False
+TXN00899,2025-12-08,Credit Card,Expense,Dining,758.07,Bank Transfer,Mumbai,False
+TXN00900,2025-04-04,Credit Card,Expense,Shopping,5017.07,UPI,Pune,False
+TXN00901,2025-02-07,Bank,Expense,Healthcare,9690.27,Cash,Bengaluru,True
+TXN00902,2024-12-09,Credit Card,Expense,Transport,650.29,Auto-debit,Other,True
+TXN00903,2024-01-30,Bank,Expense,Utilities,1584.61,Auto-debit,Other,True
+TXN00904,2025-10-23,UPI Wallet,Expense,Transport,1422.14,UPI,Hyderabad,True
+TXN00905,2025-03-26,Bank,Expense,Subscriptions,273.28,Card,Hyderabad,False
+TXN00906,2025-01-28,Bank,Expense,Shopping,3817.82,Card,Mumbai,False
+TXN00907,2025-12-11,UPI Wallet,Expense,Subscriptions,280.32,UPI,Bengaluru,False
+TXN00908,2024-06-27,Credit Card,Expense,Subscriptions,188.07,Bank Transfer,Delhi,False
+TXN00909,2024-05-26,UPI Wallet,Expense,Dining,159.19,Auto-debit,Pune,False
+TXN00910,2025-06-25,Cash,Expense,Transport,2280.49,Auto-debit,Other,True
+TXN00911,2025-10-16,UPI Wallet,Expense,Dining,280.2,Bank Transfer,Delhi,False
+TXN00912,2024-11-05,Bank,Income,Interest,62294.6,UPI,Hyderabad,False
+TXN00913,2024-04-28,Bank,Expense,Dining,2862.38,Auto-debit,Mumbai,False
+TXN00914,2025-09-02,Credit Card,Expense,Shopping,8050.97,Cash,Delhi,False
+TXN00915,2024-04-27,Cash,Expense,Groceries,1279.83,Auto-debit,Pune,True
+TXN00916,2024-11-25,UPI Wallet,Income,Interest,18609.26,Bank Transfer,Pune,False
+TXN00917,2024-10-20,Credit Card,Expense,Groceries,3190.43,Cash,Delhi,True
+TXN00918,2024-06-03,UPI Wallet,Expense,Transport,1972.59,Bank Transfer,Delhi,True
+TXN00919,2025-11-26,UPI Wallet,Income,Freelance,59876.77,Card,Pune,False
+TXN00920,2024-12-30,Cash,Expense,Healthcare,2660.62,Card,Bengaluru,True
+TXN00921,2025-03-24,UPI Wallet,Expense,Subscriptions,417.27,Cash,Bengaluru,False
+TXN00922,2024-03-16,UPI Wallet,Expense,Shopping,7724.92,UPI,Mumbai,False
+TXN00923,2025-08-30,UPI Wallet,Income,Salary,46125.32,Auto-debit,Bengaluru,False
+TXN00924,2024-10-15,UPI Wallet,Expense,Healthcare,6164.48,Auto-debit,Delhi,True
+TXN00925,2024-03-28,UPI Wallet,Expense,Rent,6514.02,Cash,Bengaluru,True
+TXN00926,2025-02-17,Bank,Income,Business Income,11890.55,Cash,Mumbai,False
+TXN00927,2025-03-10,Cash,Income,Salary,29474.05,Auto-debit,Mumbai,False
+TXN00928,2025-03-27,Bank,Expense,Education,2267.21,UPI,Other,True
+TXN00929,2025-07-28,Bank,Expense,Shopping,8509.0,Bank Transfer,Mumbai,False
+TXN00930,2024-10-02,Credit Card,Income,Business Income,11354.5,Bank Transfer,Delhi,False
+TXN00931,2024-08-28,Bank,Expense,Travel,13312.35,Bank Transfer,Delhi,False
+TXN00932,2024-04-24,UPI Wallet,Income,Interest,22900.9,Card,Bengaluru,False
+TXN00933,2025-12-10,Credit Card,Expense,Shopping,5274.07,Auto-debit,Pune,False
+TXN00934,2024-08-22,UPI Wallet,Income,Salary,39948.76,UPI,Delhi,False
+TXN00935,2025-11-30,UPI Wallet,Expense,Utilities,3136.0,Card,Bengaluru,True
+TXN00936,2025-01-07,Credit Card,Expense,Education,3758.51,Bank Transfer,Mumbai,True
+TXN00937,2025-11-23,Bank,Expense,Rent,20516.0,UPI,Bengaluru,True
+TXN00938,2025-02-03,Credit Card,Income,Business Income,53789.56,UPI,Mumbai,False
+TXN00939,2025-11-20,UPI Wallet,Income,Freelance,1125.73,Auto-debit,Pune,False
+TXN00940,2025-09-06,Credit Card,Expense,Groceries,1688.39,Bank Transfer,Mumbai,True
+TXN00941,2024-02-12,Credit Card,Expense,Education,6810.45,UPI,Delhi,True
+TXN00942,2024-02-08,UPI Wallet,Expense,Dining,2262.9,UPI,Bengaluru,False
+TXN00943,2024-04-21,Credit Card,Expense,Healthcare,2211.41,Card,Mumbai,True
+TXN00944,2025-01-27,Bank,Expense,Groceries,4017.7,Card,Bengaluru,True
+TXN00945,2024-04-24,UPI Wallet,Expense,Transport,1611.27,Card,Delhi,True
+TXN00946,2024-05-15,UPI Wallet,Income,Salary,43570.79,Card,Delhi,False
+TXN00947,2024-06-19,Credit Card,Expense,Rent,20956.29,Card,Pune,True
+TXN00948,2025-10-07,Bank,Expense,Dining,1805.25,UPI,Other,False
+TXN00949,2024-08-09,Credit Card,Income,Interest,17606.25,Auto-debit,Hyderabad,False
+TXN00950,2025-05-16,Bank,Income,Salary,20819.32,Cash,Pune,False
+TXN00951,2024-09-19,Bank,Expense,Groceries,2200.51,UPI,Delhi,True
+TXN00952,2024-07-16,UPI Wallet,Expense,Utilities,2593.48,Bank Transfer,Hyderabad,True
+TXN00953,2024-04-10,Bank,Expense,Subscriptions,1283.79,Bank Transfer,Bengaluru,False
+TXN00954,2025-02-28,UPI Wallet,Expense,Transport,937.97,Cash,Bengaluru,True
+TXN00955,2025-02-09,UPI Wallet,Income,Interest,47920.55,Bank Transfer,Other,False
+TXN00956,2025-09-24,UPI Wallet,Expense,Education,3756.52,Auto-debit,Delhi,True
+TXN00957,2025-09-09,Cash,Expense,Shopping,8246.06,UPI,Other,False
+TXN00958,2024-04-16,UPI Wallet,Expense,Subscriptions,870.83,Card,Mumbai,False
+TXN00959,2025-02-15,UPI Wallet,Expense,Healthcare,5183.81,Bank Transfer,Hyderabad,True
+TXN00960,2024-08-20,Cash,Expense,Travel,18620.24,Bank Transfer,Delhi,False
+TXN00961,2025-03-22,Bank,Expense,Transport,1179.37,Card,Mumbai,True
+TXN00962,2024-12-15,UPI Wallet,Income,Interest,57294.42,Cash,Hyderabad,False
+TXN00963,2024-09-21,UPI Wallet,Expense,Groceries,2165.22,Card,Bengaluru,True
+TXN00964,2024-06-30,Credit Card,Expense,Education,7836.05,Card,Hyderabad,True
+TXN00965,2024-12-20,UPI Wallet,Expense,Travel,16816.19,Bank Transfer,Mumbai,False
+TXN00966,2024-04-07,Bank,Expense,Healthcare,1046.93,Bank Transfer,Delhi,True
+TXN00967,2024-12-15,Bank,Expense,Dining,2737.48,UPI,Pune,False
+TXN00968,2024-05-19,Bank,Expense,Rent,19133.15,Bank Transfer,Other,True
+TXN00969,2024-05-16,UPI Wallet,Expense,Shopping,9379.27,Card,Other,False
+TXN00970,2024-08-30,Credit Card,Expense,Utilities,2860.62,Card,Other,True
+TXN00971,2025-07-29,Credit Card,Expense,Education,3834.13,Cash,Hyderabad,True
+TXN00972,2025-07-09,Bank,Expense,Education,8251.6,Bank Transfer,Delhi,True
+TXN00973,2025-11-15,Bank,Income,Freelance,12896.91,Auto-debit,Hyderabad,False
+TXN00974,2025-12-19,Bank,Expense,Shopping,6707.2,Card,Delhi,False
+TXN00975,2024-05-29,UPI Wallet,Expense,Groceries,1722.05,Bank Transfer,Pune,True
+TXN00976,2024-06-06,UPI Wallet,Expense,Shopping,529.56,UPI,Other,False
+TXN00977,2025-11-25,UPI Wallet,Income,Business Income,63421.22,Card,Delhi,False
+TXN00978,2025-08-17,Credit Card,Expense,Rent,14817.77,Cash,Other,True
+TXN00979,2025-04-19,UPI Wallet,Expense,Healthcare,7874.69,Bank Transfer,Hyderabad,True
+TXN00980,2024-11-21,Credit Card,Income,Business Income,29478.79,Auto-debit,Pune,False
+TXN00981,2024-07-03,Cash,Expense,Utilities,1769.36,Cash,Delhi,True
+TXN00982,2024-03-26,UPI Wallet,Expense,Groceries,2589.48,Auto-debit,Other,True
+TXN00983,2025-10-23,UPI Wallet,Expense,Education,5668.63,UPI,Other,True
+TXN00984,2025-03-13,Credit Card,Expense,Groceries,2041.38,Cash,Other,True
+TXN00985,2024-02-06,UPI Wallet,Expense,Utilities,2626.96,Auto-debit,Delhi,True
+TXN00986,2024-10-12,Cash,Expense,Travel,7450.56,UPI,Other,False
+TXN00987,2025-07-07,UPI Wallet,Expense,Rent,16951.16,UPI,Pune,True
+TXN00988,2024-08-12,Cash,Expense,Rent,24171.04,Bank Transfer,Hyderabad,True
+TXN00989,2025-11-05,UPI Wallet,Expense,Shopping,5291.36,Cash,Bengaluru,False
+TXN00990,2024-09-28,Bank,Expense,Utilities,990.66,Auto-debit,Pune,True
+TXN00991,2025-08-20,Credit Card,Expense,Transport,332.15,Bank Transfer,Pune,True
+TXN00992,2025-01-09,Bank,Income,Freelance,16203.36,Auto-debit,Bengaluru,False
+TXN00993,2025-08-13,Cash,Expense,Groceries,4324.11,Bank Transfer,Mumbai,True
+TXN00994,2024-12-30,Cash,Expense,Subscriptions,1014.25,Auto-debit,Hyderabad,False
+TXN00995,2025-05-03,UPI Wallet,Expense,Utilities,494.78,UPI,Mumbai,True
+TXN00996,2024-10-16,Credit Card,Expense,Travel,1258.46,Cash,Delhi,False
+TXN00997,2024-06-06,Cash,Expense,Utilities,1398.29,Card,Bengaluru,True
+TXN00998,2024-03-19,UPI Wallet,Expense,Utilities,1916.24,Bank Transfer,Hyderabad,True
+TXN00999,2024-12-13,Credit Card,Expense,Shopping,6730.96,Auto-debit,Hyderabad,False
+TXN01000,2025-01-13,UPI Wallet,Expense,Transport,407.48,Bank Transfer,Bengaluru,True
+TXN01001,2025-04-27,Bank,Expense,Travel,16780.35,UPI,Bengaluru,False
+TXN01002,2025-10-18,UPI Wallet,Expense,Rent,24269.5,Bank Transfer,Bengaluru,True
+TXN01003,2025-12-22,Cash,Income,Business Income,1682.88,UPI,Other,False
+TXN01004,2024-10-16,UPI Wallet,Expense,Transport,520.61,Bank Transfer,Other,True
+TXN01005,2024-02-17,UPI Wallet,Expense,Transport,1965.57,UPI,Pune,True
+TXN01006,2025-01-31,Credit Card,Expense,Subscriptions,959.63,Bank Transfer,Other,False
+TXN01007,2025-10-17,Credit Card,Income,Business Income,56995.53,Cash,Delhi,False
+TXN01008,2025-04-08,Bank,Expense,Transport,1150.1,Bank Transfer,Delhi,True
+TXN01009,2025-01-29,Credit Card,Expense,Groceries,1544.14,Card,Mumbai,True
+TXN01010,2024-11-09,UPI Wallet,Expense,Rent,24503.29,Auto-debit,Hyderabad,True
+TXN01011,2025-11-05,Cash,Expense,Transport,632.28,UPI,Bengaluru,True
+TXN01012,2025-08-04,UPI Wallet,Expense,Rent,10148.43,Card,Bengaluru,True
+TXN01013,2025-09-10,Bank,Expense,Shopping,2763.98,Cash,Hyderabad,False
+TXN01014,2024-01-25,Bank,Income,Freelance,57703.75,UPI,Delhi,False
+TXN01015,2024-07-23,UPI Wallet,Expense,Travel,926.99,Auto-debit,Delhi,False
+TXN01016,2024-03-26,UPI Wallet,Expense,Shopping,4597.77,UPI,Bengaluru,False
+TXN01017,2025-02-05,Credit Card,Expense,Rent,15660.74,Card,Mumbai,True
+TXN01018,2024-01-20,Credit Card,Expense,Transport,992.97,Cash,Bengaluru,True
+TXN01019,2025-09-06,UPI Wallet,Expense,Dining,2544.1,Cash,Delhi,False
+TXN01020,2025-11-16,Cash,Expense,Rent,9442.05,Auto-debit,Hyderabad,True
+TXN01021,2025-08-26,Credit Card,Expense,Transport,432.67,Bank Transfer,Delhi,True
+TXN01022,2024-03-11,Bank,Expense,Healthcare,4659.59,Cash,Pune,True
+TXN01023,2025-01-07,Bank,Expense,Subscriptions,350.36,Cash,Hyderabad,False
+TXN01024,2025-08-15,UPI Wallet,Expense,Groceries,2839.39,Bank Transfer,Hyderabad,True
+TXN01025,2024-10-27,Bank,Expense,Groceries,3649.74,UPI,Other,True
+TXN01026,2024-03-10,Bank,Income,Interest,10619.48,Bank Transfer,Delhi,False
+TXN01027,2025-07-06,UPI Wallet,Expense,Education,7397.42,Cash,Other,True
+TXN01028,2024-11-16,Cash,Expense,Shopping,3098.6,UPI,Pune,False
+TXN01029,2025-09-18,Credit Card,Income,Salary,35506.38,Bank Transfer,Pune,False
+TXN01030,2025-02-01,Bank,Expense,Education,10412.69,Bank Transfer,Bengaluru,True
+TXN01031,2024-09-21,Credit Card,Expense,Subscriptions,478.52,Auto-debit,Other,False
+TXN01032,2025-07-30,Bank,Expense,Utilities,701.03,Cash,Bengaluru,True
+TXN01033,2025-07-06,Cash,Expense,Travel,12591.1,Auto-debit,Pune,False
+TXN01034,2024-04-24,UPI Wallet,Expense,Rent,8907.56,Cash,Mumbai,True
+TXN01035,2024-07-08,Bank,Income,Business Income,40514.02,Card,Other,False
+TXN01036,2025-04-20,Cash,Expense,Education,14981.12,Cash,Pune,True
+TXN01037,2025-11-10,Bank,Expense,Rent,5198.01,Card,Hyderabad,True
+TXN01038,2025-09-26,Bank,Expense,Rent,5284.11,Auto-debit,Delhi,True
+TXN01039,2024-04-30,Bank,Expense,Education,13789.02,Card,Mumbai,True
+TXN01040,2025-11-24,UPI Wallet,Expense,Healthcare,3257.53,Card,Other,True
+TXN01041,2024-12-09,Bank,Income,Interest,57091.31,Cash,Mumbai,False
+TXN01042,2025-12-19,Cash,Income,Salary,46284.81,UPI,Other,False
+TXN01043,2024-06-20,UPI Wallet,Expense,Education,4733.19,Auto-debit,Delhi,True
+TXN01044,2025-11-08,Credit Card,Income,Interest,11458.59,Bank Transfer,Pune,False
+TXN01045,2025-02-13,Bank,Income,Salary,34071.67,UPI,Mumbai,False
+TXN01046,2024-09-11,Bank,Expense,Groceries,2489.42,Auto-debit,Hyderabad,True
+TXN01047,2024-09-07,UPI Wallet,Income,Business Income,52493.56,Auto-debit,Mumbai,False
+TXN01048,2024-05-23,Credit Card,Income,Freelance,54157.53,Auto-debit,Bengaluru,False
+TXN01049,2025-12-26,UPI Wallet,Expense,Groceries,2108.96,Auto-debit,Other,True
+TXN01050,2024-11-04,UPI Wallet,Expense,Transport,1533.24,Auto-debit,Pune,True
+TXN01051,2025-04-18,Bank,Expense,Dining,1260.44,UPI,Delhi,False
+TXN01052,2024-06-04,UPI Wallet,Expense,Travel,1777.82,Cash,Hyderabad,False
+TXN01053,2024-08-21,UPI Wallet,Income,Business Income,47763.41,Bank Transfer,Bengaluru,False
+TXN01054,2025-11-09,Bank,Expense,Healthcare,4108.03,Auto-debit,Other,True
+TXN01055,2024-02-02,UPI Wallet,Expense,Travel,16220.12,Card,Pune,False
+TXN01056,2024-12-02,Cash,Expense,Subscriptions,1471.77,Bank Transfer,Pune,False
+TXN01057,2025-02-26,Bank,Expense,Dining,954.74,Card,Delhi,False
+TXN01058,2024-08-14,Bank,Income,Interest,10165.87,Bank Transfer,Delhi,False
+TXN01059,2025-02-19,UPI Wallet,Expense,Subscriptions,980.58,UPI,Bengaluru,False
+TXN01060,2025-11-03,Credit Card,Expense,Travel,13707.22,Cash,Other,False
+TXN01061,2024-09-16,UPI Wallet,Income,Interest,26731.81,UPI,Bengaluru,False
+TXN01062,2024-08-06,Bank,Expense,Groceries,1560.09,Bank Transfer,Hyderabad,True
+TXN01063,2024-06-27,Credit Card,Expense,Groceries,226.08,Cash,Hyderabad,True
+TXN01064,2024-12-29,UPI Wallet,Expense,Subscriptions,527.17,Cash,Delhi,False
+TXN01065,2025-10-08,Credit Card,Expense,Utilities,762.5,UPI,Hyderabad,True
+TXN01066,2024-12-01,Bank,Expense,Healthcare,2040.07,Card,Mumbai,True
+TXN01067,2025-05-06,Cash,Expense,Education,4297.91,Bank Transfer,Pune,True
+TXN01068,2025-09-04,Bank,Income,Freelance,28333.58,Auto-debit,Bengaluru,False
+TXN01069,2024-03-31,Cash,Expense,Healthcare,3777.66,Card,Mumbai,True
+TXN01070,2024-12-20,Bank,Expense,Shopping,1584.14,Auto-debit,Bengaluru,False
+TXN01071,2025-12-30,Bank,Expense,Education,8051.94,Card,Mumbai,True
+TXN01072,2024-09-14,Bank,Expense,Healthcare,8122.12,Auto-debit,Delhi,True
+TXN01073,2024-07-29,Credit Card,Income,Interest,60490.5,Cash,Hyderabad,False
+TXN01074,2024-03-31,UPI Wallet,Expense,Groceries,3399.09,UPI,Bengaluru,True
+TXN01075,2024-05-01,UPI Wallet,Expense,Shopping,9416.24,Cash,Other,False
+TXN01076,2025-01-29,Cash,Expense,Healthcare,10650.24,Card,Mumbai,True
+TXN01077,2025-07-16,Bank,Expense,Shopping,4422.68,UPI,Other,False
+TXN01078,2025-05-01,UPI Wallet,Expense,Dining,1730.02,Auto-debit,Pune,False
+TXN01079,2025-02-08,Bank,Expense,Shopping,4331.18,Cash,Hyderabad,False
+TXN01080,2024-07-08,UPI Wallet,Expense,Transport,2067.67,Auto-debit,Delhi,True
+TXN01081,2025-01-13,Bank,Expense,Education,10090.31,Cash,Hyderabad,True
+TXN01082,2025-04-30,Bank,Expense,Groceries,4338.86,Card,Other,True
+TXN01083,2024-06-13,Bank,Expense,Groceries,1417.59,Cash,Hyderabad,True
+TXN01084,2024-12-03,UPI Wallet,Expense,Groceries,4087.78,Bank Transfer,Delhi,True
+TXN01085,2025-03-06,Bank,Income,Salary,48389.21,Cash,Other,False
+TXN01086,2024-02-01,Bank,Expense,Healthcare,8641.14,UPI,Delhi,True
+TXN01087,2025-05-01,UPI Wallet,Expense,Groceries,3305.83,Bank Transfer,Mumbai,True
+TXN01088,2024-02-02,Bank,Expense,Shopping,9615.34,Auto-debit,Hyderabad,False
+TXN01089,2024-11-14,Bank,Expense,Transport,1520.2,Bank Transfer,Delhi,True
+TXN01090,2024-02-13,UPI Wallet,Expense,Subscriptions,1178.27,Bank Transfer,Mumbai,False
+TXN01091,2024-07-11,Cash,Expense,Rent,19279.08,Auto-debit,Mumbai,True
+TXN01092,2024-10-30,Credit Card,Income,Business Income,62111.34,Bank Transfer,Hyderabad,False
+TXN01093,2024-04-22,Credit Card,Expense,Groceries,585.57,Bank Transfer,Mumbai,True
+TXN01094,2025-08-22,UPI Wallet,Expense,Healthcare,6215.95,UPI,Mumbai,True
+TXN01095,2025-10-02,Bank,Expense,Shopping,6060.3,Bank Transfer,Other,False
+TXN01096,2024-08-23,UPI Wallet,Income,Interest,5159.47,UPI,Mumbai,False
+TXN01097,2025-02-14,Credit Card,Expense,Rent,22286.1,Auto-debit,Hyderabad,True
+TXN01098,2025-04-04,Bank,Expense,Dining,2954.82,Auto-debit,Pune,False
+TXN01099,2024-12-16,Cash,Income,Business Income,35801.89,Bank Transfer,Pune,False
+TXN01100,2025-09-09,Credit Card,Expense,Shopping,4911.37,Cash,Other,False
+TXN01101,2025-09-30,UPI Wallet,Expense,Groceries,1573.51,Bank Transfer,Pune,True
+TXN01102,2025-02-13,UPI Wallet,Expense,Travel,18640.18,Card,Mumbai,False
+TXN01103,2025-05-15,Credit Card,Expense,Subscriptions,1377.86,Card,Pune,False
+TXN01104,2025-11-06,Cash,Income,Freelance,44031.48,UPI,Delhi,False
+TXN01105,2025-09-26,Bank,Expense,Transport,309.58,Cash,Hyderabad,True
+TXN01106,2024-08-11,Bank,Expense,Education,8288.05,Cash,Hyderabad,True
+TXN01107,2025-11-14,UPI Wallet,Expense,Utilities,2633.96,UPI,Mumbai,True
+TXN01108,2025-01-07,Bank,Expense,Groceries,1838.02,Auto-debit,Other,True
+TXN01109,2025-11-16,Bank,Expense,Shopping,7276.15,UPI,Other,False
+TXN01110,2025-02-02,UPI Wallet,Expense,Subscriptions,967.49,Bank Transfer,Pune,False
+TXN01111,2025-12-15,UPI Wallet,Expense,Shopping,6316.37,UPI,Pune,False
+TXN01112,2024-05-08,Bank,Expense,Groceries,3699.61,Cash,Pune,True
+TXN01113,2025-07-23,UPI Wallet,Expense,Dining,2167.62,Bank Transfer,Bengaluru,False
+TXN01114,2024-12-31,UPI Wallet,Expense,Travel,10336.81,Auto-debit,Delhi,False
+TXN01115,2024-04-12,Bank,Expense,Utilities,1508.1,Cash,Pune,True
+TXN01116,2025-04-21,Bank,Expense,Healthcare,6835.09,Bank Transfer,Pune,True
+TXN01117,2025-02-05,Bank,Expense,Subscriptions,1324.19,Bank Transfer,Other,False
+TXN01118,2024-03-13,Bank,Expense,Travel,4391.52,Auto-debit,Mumbai,False
+TXN01119,2024-04-20,Bank,Income,Salary,50623.07,Auto-debit,Mumbai,False
+TXN01120,2025-04-14,UPI Wallet,Expense,Travel,3194.38,Card,Mumbai,False
+TXN01121,2025-12-05,Cash,Expense,Dining,1110.7,Auto-debit,Mumbai,False
+TXN01122,2025-01-18,Bank,Expense,Rent,6474.42,UPI,Hyderabad,True
+TXN01123,2024-10-05,Credit Card,Expense,Transport,92.95,Auto-debit,Pune,True
+TXN01124,2024-09-28,UPI Wallet,Expense,Dining,2893.66,Auto-debit,Pune,False
+TXN01125,2025-06-17,UPI Wallet,Expense,Dining,2776.69,Card,Hyderabad,False
+TXN01126,2024-10-05,UPI Wallet,Expense,Shopping,3580.37,Auto-debit,Hyderabad,False
+TXN01127,2025-01-29,Cash,Expense,Shopping,3401.8,Bank Transfer,Other,False
+TXN01128,2025-09-17,UPI Wallet,Expense,Rent,13511.75,UPI,Bengaluru,True
+TXN01129,2025-07-26,UPI Wallet,Expense,Transport,408.67,Card,Hyderabad,True
+TXN01130,2025-12-05,Bank,Expense,Transport,2319.28,Cash,Mumbai,True
+TXN01131,2025-06-16,Credit Card,Expense,Travel,6279.03,Bank Transfer,Delhi,False
+TXN01132,2024-09-15,Cash,Expense,Healthcare,8271.77,Cash,Bengaluru,True
+TXN01133,2024-03-04,Bank,Expense,Groceries,3269.33,Auto-debit,Other,True
+TXN01134,2024-12-01,Bank,Expense,Transport,1947.53,Auto-debit,Bengaluru,True
+TXN01135,2024-09-14,Cash,Expense,Rent,17705.17,Cash,Hyderabad,True
+TXN01136,2024-12-18,Credit Card,Expense,Groceries,3423.87,Cash,Mumbai,True
+TXN01137,2025-11-16,Bank,Expense,Subscriptions,1275.32,UPI,Hyderabad,False
+TXN01138,2025-04-22,Bank,Income,Freelance,46717.96,Auto-debit,Other,False
+TXN01139,2024-04-25,Credit Card,Income,Interest,54276.22,Bank Transfer,Pune,False
+TXN01140,2024-06-25,Cash,Income,Interest,19050.79,Cash,Hyderabad,False
+TXN01141,2024-05-08,Bank,Expense,Education,14012.65,Bank Transfer,Delhi,True
+TXN01142,2024-09-17,Bank,Expense,Shopping,5456.7,Card,Other,False
+TXN01143,2025-12-04,Bank,Expense,Transport,1373.75,Cash,Hyderabad,True
+TXN01144,2024-04-12,Cash,Expense,Shopping,828.13,UPI,Bengaluru,False
+TXN01145,2025-06-04,Cash,Expense,Dining,1874.34,Card,Bengaluru,False
+TXN01146,2024-01-06,UPI Wallet,Expense,Shopping,6151.69,Auto-debit,Hyderabad,False
+TXN01147,2024-03-18,UPI Wallet,Expense,Travel,15484.76,Bank Transfer,Delhi,False
+TXN01148,2024-05-16,UPI Wallet,Expense,Travel,5938.23,Auto-debit,Delhi,False
+TXN01149,2024-10-22,UPI Wallet,Expense,Groceries,569.55,Bank Transfer,Bengaluru,True
+TXN01150,2024-02-02,Credit Card,Income,Salary,64908.33,UPI,Other,False
+TXN01151,2024-02-04,UPI Wallet,Expense,Transport,1562.98,Cash,Other,True
+TXN01152,2024-06-26,UPI Wallet,Expense,Transport,737.52,Cash,Other,True
+TXN01153,2025-08-07,Cash,Expense,Travel,4499.02,Auto-debit,Mumbai,False
+TXN01154,2024-09-20,Bank,Expense,Rent,21303.06,UPI,Mumbai,True
+TXN01155,2024-03-08,Credit Card,Expense,Groceries,1759.01,Bank Transfer,Delhi,True
+TXN01156,2024-02-16,Cash,Income,Business Income,17778.08,Cash,Bengaluru,False
+TXN01157,2024-02-20,Bank,Expense,Education,2559.07,UPI,Pune,True
+TXN01158,2025-12-02,UPI Wallet,Expense,Healthcare,375.61,Card,Mumbai,True
+TXN01159,2024-10-26,UPI Wallet,Expense,Education,6434.3,Auto-debit,Pune,True
+TXN01160,2024-04-08,Credit Card,Expense,Travel,3435.53,Auto-debit,Bengaluru,False
+TXN01161,2024-04-18,UPI Wallet,Expense,Education,5064.39,Card,Mumbai,True
+TXN01162,2025-09-17,UPI Wallet,Expense,Healthcare,3858.48,Cash,Other,True
+TXN01163,2025-08-21,UPI Wallet,Expense,Dining,759.5,Cash,Pune,False
+TXN01164,2025-06-06,UPI Wallet,Expense,Utilities,2653.63,Cash,Delhi,True
+TXN01165,2025-01-18,Bank,Expense,Subscriptions,1481.43,Cash,Pune,False
+TXN01166,2025-07-16,Bank,Expense,Groceries,3338.7,Card,Pune,True
+TXN01167,2024-12-27,Bank,Expense,Shopping,8958.97,UPI,Hyderabad,False
+TXN01168,2024-06-11,Cash,Expense,Healthcare,10169.29,Card,Mumbai,True
+TXN01169,2024-11-03,Credit Card,Expense,Groceries,393.44,Card,Pune,True
+TXN01170,2025-11-17,Bank,Income,Business Income,42592.04,Bank Transfer,Bengaluru,False
+TXN01171,2024-10-06,Bank,Expense,Travel,5223.15,Bank Transfer,Hyderabad,False
+TXN01172,2024-06-17,UPI Wallet,Expense,Education,8021.88,UPI,Mumbai,True
+TXN01173,2025-03-26,UPI Wallet,Expense,Subscriptions,421.9,Auto-debit,Mumbai,False
+TXN01174,2024-01-17,Bank,Expense,Dining,2360.7,Card,Other,False
+TXN01175,2025-01-09,Bank,Income,Salary,45262.29,Bank Transfer,Other,False
+TXN01176,2024-04-22,UPI Wallet,Income,Freelance,7154.52,Auto-debit,Delhi,False
+TXN01177,2024-01-09,UPI Wallet,Expense,Healthcare,4163.4,Cash,Pune,True
+TXN01178,2024-09-13,UPI Wallet,Expense,Travel,9399.75,Bank Transfer,Delhi,False
+TXN01179,2025-06-01,Bank,Expense,Rent,20416.81,UPI,Hyderabad,True
+TXN01180,2024-02-28,UPI Wallet,Expense,Rent,16939.77,Card,Other,True
+TXN01181,2024-03-06,UPI Wallet,Expense,Utilities,3025.34,Auto-debit,Bengaluru,True
+TXN01182,2025-08-16,Bank,Income,Business Income,42736.48,Auto-debit,Bengaluru,False
+TXN01183,2025-11-01,Bank,Income,Freelance,32543.38,Card,Hyderabad,False
+TXN01184,2025-02-13,UPI Wallet,Expense,Transport,2046.08,Cash,Pune,True
+TXN01185,2024-12-06,Credit Card,Expense,Dining,2105.37,Card,Pune,False
+TXN01186,2025-11-08,Bank,Income,Business Income,20502.63,Bank Transfer,Hyderabad,False
+TXN01187,2024-07-08,UPI Wallet,Expense,Shopping,2061.03,Bank Transfer,Delhi,False
+TXN01188,2025-03-05,Bank,Expense,Groceries,2028.33,Cash,Other,True
+TXN01189,2024-02-13,Credit Card,Expense,Rent,20881.72,Card,Pune,True
+TXN01190,2024-02-16,Cash,Expense,Education,11985.68,Card,Hyderabad,True
+TXN01191,2024-09-21,UPI Wallet,Expense,Healthcare,2726.39,Card,Pune,True
+TXN01192,2025-01-27,UPI Wallet,Expense,Transport,1643.69,UPI,Pune,True
+TXN01193,2024-01-03,UPI Wallet,Expense,Transport,2324.45,Card,Mumbai,True
+TXN01194,2024-02-27,Cash,Expense,Healthcare,6759.4,Card,Pune,True
+TXN01195,2024-04-09,Credit Card,Expense,Subscriptions,866.67,Auto-debit,Hyderabad,False
+TXN01196,2025-11-17,Bank,Expense,Utilities,418.32,Card,Bengaluru,True
+TXN01197,2024-07-09,UPI Wallet,Expense,Subscriptions,497.32,Cash,Bengaluru,False
+TXN01198,2025-04-24,Bank,Expense,Subscriptions,942.62,Auto-debit,Bengaluru,False
+TXN01199,2025-11-02,Bank,Expense,Shopping,233.65,UPI,Pune,False
+TXN01200,2024-09-11,UPI Wallet,Expense,Groceries,1448.39,Auto-debit,Delhi,True
+TXN01201,2024-04-22,Credit Card,Expense,Healthcare,3365.76,Bank Transfer,Delhi,True
+TXN01202,2025-03-21,UPI Wallet,Expense,Rent,8457.37,UPI,Mumbai,True
+TXN01203,2024-08-28,UPI Wallet,Expense,Healthcare,719.94,UPI,Hyderabad,True
+TXN01204,2025-07-03,UPI Wallet,Expense,Rent,22685.35,Auto-debit,Pune,True
+TXN01205,2025-12-09,Cash,Expense,Education,7577.08,Bank Transfer,Mumbai,True
+TXN01206,2025-11-17,Bank,Expense,Groceries,3865.72,Auto-debit,Hyderabad,True
+TXN01207,2024-10-08,Bank,Expense,Shopping,1987.93,Card,Pune,False
+TXN01208,2025-04-02,Cash,Expense,Travel,19673.68,UPI,Delhi,False
+TXN01209,2024-11-25,UPI Wallet,Expense,Healthcare,1686.81,Auto-debit,Pune,True
+TXN01210,2025-05-08,Bank,Expense,Travel,3447.74,Bank Transfer,Pune,False
+TXN01211,2024-07-20,Credit Card,Expense,Healthcare,7467.89,UPI,Pune,True
+TXN01212,2024-10-20,UPI Wallet,Expense,Healthcare,3108.2,Bank Transfer,Delhi,True
+TXN01213,2024-03-24,Credit Card,Expense,Dining,2393.23,Card,Mumbai,False
+TXN01214,2024-06-13,UPI Wallet,Expense,Groceries,226.57,Card,Bengaluru,True
+TXN01215,2024-06-13,Credit Card,Income,Interest,59664.0,Cash,Hyderabad,False
+TXN01216,2024-09-14,Credit Card,Expense,Rent,13126.39,Card,Other,True
+TXN01217,2024-04-23,UPI Wallet,Income,Business Income,22077.02,Card,Mumbai,False
+TXN01218,2025-04-28,Credit Card,Expense,Transport,179.82,UPI,Delhi,True
+TXN01219,2025-12-14,Bank,Expense,Travel,12507.84,Auto-debit,Pune,False
+TXN01220,2025-09-29,Bank,Expense,Education,12371.76,Bank Transfer,Hyderabad,True
+TXN01221,2025-07-07,Bank,Income,Business Income,28050.74,Auto-debit,Bengaluru,False
+TXN01222,2025-05-01,Bank,Expense,Groceries,701.6,Card,Bengaluru,True
+TXN01223,2024-08-19,UPI Wallet,Expense,Healthcare,7896.78,UPI,Bengaluru,True
+TXN01224,2025-11-30,Bank,Expense,Groceries,1261.97,Bank Transfer,Other,True
+TXN01225,2025-02-18,UPI Wallet,Expense,Utilities,2285.89,Card,Pune,True
+TXN01226,2025-05-06,Cash,Expense,Healthcare,4647.32,Bank Transfer,Mumbai,True
+TXN01227,2024-02-29,UPI Wallet,Expense,Travel,18399.48,Bank Transfer,Pune,False
+TXN01228,2025-04-04,UPI Wallet,Expense,Healthcare,7626.92,Bank Transfer,Other,True
+TXN01229,2024-05-23,Cash,Expense,Subscriptions,1139.13,Cash,Bengaluru,False
+TXN01230,2024-01-10,Bank,Expense,Groceries,1167.64,UPI,Hyderabad,True
+TXN01231,2025-11-09,UPI Wallet,Expense,Healthcare,364.23,Auto-debit,Hyderabad,True
+TXN01232,2025-03-21,Cash,Expense,Dining,2471.04,UPI,Other,False
+TXN01233,2024-01-12,Bank,Income,Business Income,56551.71,Bank Transfer,Bengaluru,False
+TXN01234,2024-02-23,Credit Card,Expense,Utilities,3047.0,Bank Transfer,Hyderabad,True
+TXN01235,2025-07-31,UPI Wallet,Expense,Shopping,2587.93,Cash,Bengaluru,False
+TXN01236,2025-01-16,UPI Wallet,Expense,Transport,878.46,Card,Delhi,True
+TXN01237,2024-04-25,Credit Card,Expense,Groceries,3037.65,Cash,Mumbai,True
+TXN01238,2025-03-04,Cash,Expense,Subscriptions,861.52,UPI,Pune,False
+TXN01239,2025-11-08,Bank,Expense,Groceries,1597.15,Bank Transfer,Other,True
+TXN01240,2025-04-17,Bank,Expense,Subscriptions,899.43,Card,Mumbai,False
+TXN01241,2025-09-07,Bank,Expense,Subscriptions,321.97,Auto-debit,Delhi,False
+TXN01242,2025-09-28,UPI Wallet,Expense,Utilities,1538.0,Auto-debit,Mumbai,True
+TXN01243,2025-11-24,Bank,Expense,Shopping,6160.98,Auto-debit,Pune,False
+TXN01244,2024-12-11,Bank,Expense,Shopping,2386.57,Cash,Other,False
+TXN01245,2025-12-28,UPI Wallet,Income,Freelance,39628.07,UPI,Pune,False
+TXN01246,2024-12-17,Credit Card,Expense,Utilities,1280.13,Cash,Hyderabad,True
+TXN01247,2024-09-04,Cash,Expense,Groceries,406.18,Card,Bengaluru,True
+TXN01248,2025-02-05,Bank,Expense,Transport,1422.02,Auto-debit,Mumbai,True
+TXN01249,2025-09-20,Cash,Expense,Dining,1508.64,Card,Delhi,False
+TXN01250,2024-09-01,Bank,Expense,Utilities,3054.24,Cash,Pune,True
+TXN01251,2024-12-19,Cash,Income,Freelance,24668.27,Bank Transfer,Delhi,False
+TXN01252,2024-07-17,Credit Card,Expense,Travel,16662.22,Bank Transfer,Delhi,False
+TXN01253,2024-09-14,UPI Wallet,Expense,Transport,268.74,Cash,Bengaluru,True
+TXN01254,2024-03-19,Cash,Income,Salary,8261.47,Auto-debit,Delhi,False
+TXN01255,2025-09-21,Bank,Expense,Transport,1348.84,Cash,Other,True
+TXN01256,2025-09-05,Credit Card,Expense,Education,3077.39,Card,Other,True
+TXN01257,2025-12-28,UPI Wallet,Expense,Education,8913.41,UPI,Mumbai,True
+TXN01258,2024-01-31,Bank,Expense,Travel,5658.78,Card,Other,False
+TXN01259,2024-02-16,Bank,Expense,Travel,5511.37,Bank Transfer,Bengaluru,False
+TXN01260,2025-12-18,UPI Wallet,Income,Interest,25602.96,Card,Pune,False
+TXN01261,2025-08-31,Bank,Income,Business Income,57902.14,Cash,Bengaluru,False
+TXN01262,2024-07-30,Cash,Expense,Shopping,1367.24,Card,Hyderabad,False
+TXN01263,2024-12-19,Bank,Expense,Transport,2182.78,UPI,Mumbai,True
+TXN01264,2025-05-28,UPI Wallet,Expense,Education,325.65,Cash,Mumbai,True
+TXN01265,2024-10-10,UPI Wallet,Expense,Groceries,1591.51,Cash,Mumbai,True
+TXN01266,2025-06-18,UPI Wallet,Expense,Education,11365.69,UPI,Hyderabad,True
+TXN01267,2025-07-25,Bank,Expense,Education,6323.37,Bank Transfer,Hyderabad,True
+TXN01268,2024-10-17,UPI Wallet,Expense,Dining,2087.2,Bank Transfer,Mumbai,False
+TXN01269,2024-01-26,Cash,Expense,Dining,2495.82,Card,Hyderabad,False
+TXN01270,2024-10-27,Bank,Expense,Travel,11553.85,Cash,Pune,False
+TXN01271,2025-12-05,Bank,Expense,Rent,17496.56,Bank Transfer,Mumbai,True
+TXN01272,2025-03-13,Cash,Expense,Shopping,6238.82,Auto-debit,Bengaluru,False
+TXN01273,2024-03-16,Cash,Expense,Subscriptions,151.64,UPI,Hyderabad,False
+TXN01274,2024-02-20,UPI Wallet,Income,Salary,27168.49,Card,Mumbai,False
+TXN01275,2025-12-07,Credit Card,Expense,Dining,284.68,Bank Transfer,Delhi,False
+TXN01276,2024-01-17,Cash,Income,Interest,14565.84,Bank Transfer,Mumbai,False
+TXN01277,2024-01-03,Bank,Expense,Education,13341.24,Cash,Delhi,True
+TXN01278,2025-06-12,Bank,Expense,Rent,18636.25,Cash,Delhi,True
+TXN01279,2024-03-16,UPI Wallet,Expense,Rent,5018.6,Auto-debit,Other,True
+TXN01280,2025-01-14,Credit Card,Expense,Shopping,1628.38,UPI,Pune,False
+TXN01281,2024-03-29,Credit Card,Expense,Dining,869.13,Card,Bengaluru,False
+TXN01282,2025-12-30,UPI Wallet,Income,Salary,64099.2,Bank Transfer,Delhi,False
+TXN01283,2024-05-24,Bank,Expense,Groceries,823.59,Cash,Bengaluru,True
+TXN01284,2024-08-06,Bank,Expense,Travel,1217.51,UPI,Delhi,False
+TXN01285,2024-07-31,Credit Card,Expense,Travel,1756.2,Card,Pune,False
+TXN01286,2024-09-29,UPI Wallet,Expense,Subscriptions,708.92,UPI,Delhi,False
+TXN01287,2024-08-21,Bank,Expense,Healthcare,10007.01,UPI,Bengaluru,True
+TXN01288,2025-04-09,UPI Wallet,Income,Interest,16407.25,Bank Transfer,Mumbai,False
+TXN01289,2024-11-05,UPI Wallet,Income,Salary,22952.61,Card,Pune,False
+TXN01290,2025-05-17,UPI Wallet,Income,Interest,15670.31,Auto-debit,Pune,False
+TXN01291,2025-02-09,Credit Card,Expense,Travel,13007.64,UPI,Pune,False
+TXN01292,2024-10-09,Bank,Expense,Utilities,1993.57,Card,Delhi,True
+TXN01293,2025-08-18,Credit Card,Expense,Shopping,3594.42,UPI,Mumbai,False
+TXN01294,2024-03-30,Bank,Expense,Travel,11201.59,Bank Transfer,Bengaluru,False
+TXN01295,2025-09-14,UPI Wallet,Expense,Education,12575.25,Cash,Other,True
+TXN01296,2024-02-19,Cash,Expense,Subscriptions,1436.56,Bank Transfer,Delhi,False
+TXN01297,2025-01-19,UPI Wallet,Expense,Transport,1081.31,UPI,Mumbai,True
+TXN01298,2024-01-02,UPI Wallet,Expense,Rent,17542.47,Bank Transfer,Delhi,True
+TXN01299,2025-03-14,UPI Wallet,Expense,Education,12427.71,Auto-debit,Delhi,True
+TXN01300,2024-09-27,UPI Wallet,Expense,Groceries,3409.79,Cash,Pune,True
+TXN01301,2024-03-30,Credit Card,Expense,Shopping,1454.73,Bank Transfer,Delhi,False
+TXN01302,2024-07-22,Credit Card,Expense,Groceries,860.45,Auto-debit,Mumbai,True
+TXN01303,2024-12-23,Credit Card,Expense,Subscriptions,325.48,Card,Hyderabad,False
+TXN01304,2024-01-16,Bank,Expense,Transport,255.11,Bank Transfer,Mumbai,True
+TXN01305,2024-11-19,Bank,Expense,Rent,16791.03,Card,Delhi,True
+TXN01306,2025-04-27,UPI Wallet,Expense,Utilities,1509.05,Auto-debit,Hyderabad,True
+TXN01307,2024-06-04,UPI Wallet,Income,Interest,55192.77,Cash,Bengaluru,False
+TXN01308,2024-09-16,Credit Card,Expense,Education,1347.47,Card,Delhi,True
+TXN01309,2024-11-23,UPI Wallet,Expense,Subscriptions,439.51,Auto-debit,Mumbai,False
+TXN01310,2025-02-02,UPI Wallet,Expense,Subscriptions,1304.26,Card,Bengaluru,False
+TXN01311,2025-03-27,UPI Wallet,Expense,Travel,5251.17,Bank Transfer,Mumbai,False
+TXN01312,2025-09-23,Bank,Expense,Transport,1111.06,UPI,Delhi,True
+TXN01313,2025-06-03,UPI Wallet,Income,Business Income,18882.96,Bank Transfer,Other,False
+TXN01314,2024-09-22,UPI Wallet,Expense,Shopping,2010.42,Bank Transfer,Delhi,False
+TXN01315,2025-09-17,UPI Wallet,Expense,Dining,1331.54,Cash,Pune,False
+TXN01316,2024-06-07,Credit Card,Expense,Healthcare,8191.79,Cash,Mumbai,True
+TXN01317,2025-08-02,UPI Wallet,Income,Interest,33290.05,Cash,Pune,False
+TXN01318,2024-07-22,UPI Wallet,Expense,Shopping,162.51,Cash,Delhi,False
+TXN01319,2024-10-12,UPI Wallet,Expense,Travel,4382.71,Card,Mumbai,False
+TXN01320,2024-01-30,Cash,Expense,Rent,10214.08,Auto-debit,Bengaluru,True
+TXN01321,2025-10-12,Credit Card,Expense,Shopping,5969.57,Card,Mumbai,False
+TXN01322,2024-06-13,Bank,Expense,Groceries,3849.64,Card,Bengaluru,True
+TXN01323,2024-02-02,UPI Wallet,Expense,Shopping,9871.38,Card,Delhi,False
+TXN01324,2025-10-21,Bank,Expense,Groceries,4370.91,Cash,Delhi,True
+TXN01325,2025-12-03,Bank,Income,Interest,61950.06,Cash,Mumbai,False
+TXN01326,2024-04-01,Credit Card,Expense,Dining,942.2,Bank Transfer,Delhi,False
+TXN01327,2025-09-13,UPI Wallet,Expense,Dining,1848.68,Auto-debit,Pune,False
+TXN01328,2024-08-29,Bank,Income,Freelance,19535.55,Card,Pune,False
+TXN01329,2025-07-26,UPI Wallet,Expense,Shopping,7684.77,UPI,Other,False
+TXN01330,2024-04-03,Bank,Expense,Groceries,3955.83,Bank Transfer,Mumbai,True
+TXN01331,2024-01-18,Bank,Expense,Travel,14474.41,Card,Pune,False
+TXN01332,2024-02-12,UPI Wallet,Expense,Transport,1009.05,Cash,Bengaluru,True
+TXN01333,2025-07-22,Bank,Income,Business Income,39845.5,Bank Transfer,Other,False
+TXN01334,2024-10-03,Bank,Expense,Dining,779.89,Auto-debit,Hyderabad,False
+TXN01335,2024-05-23,Credit Card,Expense,Healthcare,11488.34,Cash,Bengaluru,True
+TXN01336,2025-08-24,Cash,Income,Freelance,35895.82,Cash,Bengaluru,False
+TXN01337,2024-10-17,Bank,Expense,Travel,2352.86,Bank Transfer,Other,False
+TXN01338,2024-01-28,UPI Wallet,Expense,Groceries,3124.78,Cash,Mumbai,True
+TXN01339,2025-08-30,Bank,Income,Business Income,27578.99,Card,Hyderabad,False
+TXN01340,2025-05-16,Bank,Expense,Subscriptions,877.81,Auto-debit,Delhi,False
+TXN01341,2025-05-03,UPI Wallet,Income,Interest,58131.15,Bank Transfer,Bengaluru,False
+TXN01342,2024-02-06,Credit Card,Expense,Shopping,8554.67,Cash,Pune,False
+TXN01343,2024-05-02,Bank,Expense,Transport,1980.83,Card,Pune,True
+TXN01344,2025-06-14,Bank,Expense,Subscriptions,1448.37,Card,Other,False
+TXN01345,2025-07-17,UPI Wallet,Expense,Groceries,713.43,Bank Transfer,Other,True
+TXN01346,2025-12-06,Credit Card,Income,Interest,33302.4,Cash,Delhi,False
+TXN01347,2025-08-29,Bank,Expense,Subscriptions,1269.29,Auto-debit,Pune,False
+TXN01348,2024-07-20,UPI Wallet,Income,Business Income,28467.6,UPI,Mumbai,False
+TXN01349,2025-01-08,Bank,Expense,Rent,18889.7,UPI,Delhi,True
+TXN01350,2024-11-30,Cash,Expense,Shopping,8057.04,UPI,Bengaluru,False
+TXN01351,2024-10-20,Cash,Expense,Dining,1493.67,UPI,Delhi,False
+TXN01352,2025-02-04,Credit Card,Expense,Transport,1628.49,Auto-debit,Bengaluru,True
+TXN01353,2025-10-16,Bank,Expense,Utilities,2336.91,UPI,Bengaluru,True
+TXN01354,2024-06-15,Bank,Income,Business Income,14175.21,UPI,Other,False
+TXN01355,2025-02-07,Bank,Expense,Education,7926.08,Card,Hyderabad,True
+TXN01356,2024-02-03,Bank,Expense,Utilities,2204.96,Auto-debit,Bengaluru,True
+TXN01357,2025-01-11,UPI Wallet,Expense,Utilities,2932.57,Auto-debit,Mumbai,True
+TXN01358,2024-02-19,UPI Wallet,Income,Freelance,1452.89,Cash,Mumbai,False
+TXN01359,2025-09-16,Cash,Expense,Transport,1355.38,Bank Transfer,Hyderabad,True
+TXN01360,2024-09-27,Credit Card,Expense,Groceries,3646.59,Cash,Hyderabad,True
+TXN01361,2024-06-09,Bank,Expense,Dining,436.8,UPI,Other,False
+TXN01362,2024-05-30,Bank,Expense,Groceries,253.6,Bank Transfer,Delhi,True
+TXN01363,2024-07-11,Cash,Expense,Subscriptions,829.43,UPI,Bengaluru,False
+TXN01364,2025-01-10,Credit Card,Expense,Subscriptions,1143.05,Cash,Hyderabad,False
+TXN01365,2024-09-04,Bank,Income,Salary,26986.55,Bank Transfer,Pune,False
+TXN01366,2024-02-17,Credit Card,Expense,Shopping,285.63,Auto-debit,Pune,False
+TXN01367,2024-05-25,UPI Wallet,Expense,Travel,13146.76,Cash,Hyderabad,False
+TXN01368,2025-05-17,Credit Card,Expense,Transport,162.52,Cash,Other,True
+TXN01369,2024-08-17,UPI Wallet,Expense,Travel,10861.82,UPI,Pune,False
+TXN01370,2024-04-21,UPI Wallet,Expense,Healthcare,5705.2,Card,Delhi,True
+TXN01371,2025-03-18,Bank,Expense,Transport,1126.53,Bank Transfer,Other,True
+TXN01372,2024-01-25,UPI Wallet,Income,Freelance,4725.2,Auto-debit,Bengaluru,False
+TXN01373,2025-04-05,Bank,Income,Freelance,14124.42,Cash,Pune,False
+TXN01374,2024-07-03,UPI Wallet,Expense,Travel,7330.9,Bank Transfer,Hyderabad,False
+TXN01375,2025-01-14,Bank,Expense,Transport,1975.78,Cash,Pune,True
+TXN01376,2025-05-16,UPI Wallet,Expense,Education,3685.84,UPI,Mumbai,True
+TXN01377,2024-11-20,Bank,Expense,Rent,17758.31,Cash,Bengaluru,True
+TXN01378,2024-03-24,Bank,Income,Interest,57855.12,Auto-debit,Pune,False
+TXN01379,2025-06-04,Bank,Expense,Shopping,9631.15,Card,Other,False
+TXN01380,2025-07-19,UPI Wallet,Expense,Utilities,1396.94,Bank Transfer,Hyderabad,True
+TXN01381,2024-07-20,UPI Wallet,Expense,Education,402.32,Auto-debit,Other,True
+TXN01382,2025-04-02,UPI Wallet,Income,Business Income,7142.58,Card,Bengaluru,False
+TXN01383,2024-01-23,UPI Wallet,Expense,Education,4517.63,Cash,Pune,True
+TXN01384,2024-08-12,Bank,Expense,Utilities,1540.13,Cash,Mumbai,True
+TXN01385,2025-09-05,Credit Card,Expense,Subscriptions,818.82,Card,Other,False
+TXN01386,2024-03-07,Bank,Expense,Utilities,1925.29,Auto-debit,Mumbai,True
+TXN01387,2024-09-03,UPI Wallet,Expense,Dining,2360.53,Auto-debit,Other,False
+TXN01388,2025-10-26,Cash,Expense,Education,3822.87,Auto-debit,Delhi,True
+TXN01389,2024-12-09,Bank,Income,Freelance,4091.55,Cash,Bengaluru,False
+TXN01390,2024-06-19,UPI Wallet,Expense,Shopping,8790.02,Card,Delhi,False
+TXN01391,2025-06-13,Bank,Income,Interest,53738.96,UPI,Pune,False
+TXN01392,2025-04-07,Cash,Expense,Education,9789.68,Cash,Bengaluru,True
+TXN01393,2024-12-07,Bank,Income,Business Income,51714.26,Cash,Hyderabad,False
+TXN01394,2025-05-20,Bank,Income,Interest,34234.22,Card,Mumbai,False
+TXN01395,2025-07-27,Bank,Income,Interest,55652.65,UPI,Other,False
+TXN01396,2025-01-23,Cash,Expense,Transport,1386.85,Bank Transfer,Delhi,True
+TXN01397,2024-05-24,Bank,Expense,Utilities,1886.41,Auto-debit,Hyderabad,True
+TXN01398,2025-03-03,Cash,Income,Freelance,31514.79,UPI,Delhi,False
+TXN01399,2025-08-19,Credit Card,Expense,Dining,2687.06,Card,Other,False
+TXN01400,2024-08-04,Credit Card,Expense,Rent,15225.57,Card,Other,True
+TXN01401,2024-02-06,Bank,Income,Interest,48415.22,UPI,Mumbai,False
+TXN01402,2025-03-05,UPI Wallet,Income,Business Income,64921.1,Auto-debit,Pune,False
+TXN01403,2024-09-11,UPI Wallet,Expense,Subscriptions,1031.28,Auto-debit,Pune,False
+TXN01404,2025-08-25,UPI Wallet,Expense,Groceries,3452.13,Bank Transfer,Hyderabad,True
+TXN01405,2025-03-23,Bank,Expense,Subscriptions,1389.01,Card,Other,False
+TXN01406,2025-07-21,Cash,Expense,Groceries,2928.24,Cash,Hyderabad,True
+TXN01407,2024-12-30,Bank,Expense,Dining,1135.01,Auto-debit,Delhi,False
+TXN01408,2024-06-12,Credit Card,Expense,Groceries,2231.88,Bank Transfer,Hyderabad,True
+TXN01409,2025-04-22,Bank,Expense,Transport,575.68,Auto-debit,Other,True
+TXN01410,2025-07-26,Credit Card,Expense,Dining,1645.88,UPI,Mumbai,False
+TXN01411,2024-06-20,Credit Card,Expense,Education,3759.79,Cash,Delhi,True
+TXN01412,2025-05-12,Bank,Income,Freelance,19283.12,Cash,Hyderabad,False
+TXN01413,2025-12-11,UPI Wallet,Expense,Healthcare,7229.57,Bank Transfer,Pune,True
+TXN01414,2024-11-14,Bank,Expense,Groceries,383.87,Bank Transfer,Other,True
+TXN01415,2024-07-13,Bank,Expense,Utilities,1020.5,UPI,Other,True
+TXN01416,2024-12-21,UPI Wallet,Expense,Education,12158.41,Card,Pune,True
+TXN01417,2024-11-14,Credit Card,Expense,Shopping,4461.49,Cash,Other,False
+TXN01418,2025-01-12,Credit Card,Income,Salary,26825.08,UPI,Other,False
+TXN01419,2025-05-09,Credit Card,Expense,Healthcare,4493.78,Card,Delhi,True
+TXN01420,2025-07-23,Credit Card,Expense,Rent,19017.85,Bank Transfer,Hyderabad,True
+TXN01421,2025-06-22,UPI Wallet,Expense,Healthcare,2430.83,UPI,Pune,True
+TXN01422,2025-03-23,Cash,Expense,Subscriptions,238.31,Auto-debit,Hyderabad,False
+TXN01423,2025-05-05,Cash,Expense,Shopping,7283.97,Auto-debit,Bengaluru,False
+TXN01424,2025-09-11,UPI Wallet,Income,Freelance,62339.87,Card,Bengaluru,False
+TXN01425,2024-06-19,Cash,Expense,Healthcare,5425.84,Card,Bengaluru,True
+TXN01426,2025-08-22,Cash,Expense,Groceries,3898.84,Bank Transfer,Pune,True
+TXN01427,2024-05-03,Credit Card,Expense,Shopping,6747.51,Auto-debit,Bengaluru,False
+TXN01428,2025-10-30,Credit Card,Expense,Utilities,958.1,UPI,Delhi,True
+TXN01429,2025-02-03,Bank,Expense,Rent,17430.34,UPI,Hyderabad,True
+TXN01430,2025-10-01,Bank,Expense,Shopping,9670.91,Cash,Hyderabad,False
+TXN01431,2025-11-28,Bank,Expense,Groceries,3310.48,Cash,Delhi,True
+TXN01432,2024-01-16,Bank,Expense,Shopping,253.75,Cash,Other,False
+TXN01433,2025-02-02,Credit Card,Expense,Transport,1537.1,Bank Transfer,Bengaluru,True
+TXN01434,2024-09-22,Bank,Expense,Transport,428.12,Card,Delhi,True
+TXN01435,2024-05-13,UPI Wallet,Expense,Rent,13732.31,UPI,Delhi,True
+TXN01436,2024-09-30,UPI Wallet,Expense,Dining,559.19,Bank Transfer,Bengaluru,False
+TXN01437,2025-03-23,Bank,Expense,Education,973.92,UPI,Hyderabad,True
+TXN01438,2025-05-17,Credit Card,Expense,Transport,1043.52,UPI,Hyderabad,True
+TXN01439,2024-03-05,Credit Card,Income,Interest,64848.5,Bank Transfer,Bengaluru,False
+TXN01440,2025-02-18,Bank,Expense,Education,14348.04,Auto-debit,Delhi,True
+TXN01441,2025-03-20,UPI Wallet,Expense,Travel,10131.39,Cash,Delhi,False
+TXN01442,2025-12-25,UPI Wallet,Expense,Rent,8358.13,Bank Transfer,Bengaluru,True
+TXN01443,2024-06-05,UPI Wallet,Income,Salary,31868.96,UPI,Delhi,False
+TXN01444,2025-03-28,Bank,Expense,Rent,20400.36,UPI,Pune,True
+TXN01445,2025-07-28,Bank,Expense,Dining,353.3,UPI,Pune,False
+TXN01446,2025-02-18,Bank,Expense,Utilities,2032.98,Cash,Delhi,True
+TXN01447,2024-06-01,Credit Card,Expense,Transport,365.47,Auto-debit,Hyderabad,True
+TXN01448,2025-09-13,UPI Wallet,Expense,Subscriptions,1136.23,Cash,Delhi,False
+TXN01449,2024-04-06,UPI Wallet,Expense,Travel,15045.03,UPI,Pune,False
+TXN01450,2025-07-31,UPI Wallet,Expense,Subscriptions,1184.1,Card,Delhi,False
+TXN01451,2025-11-13,UPI Wallet,Income,Interest,62810.43,Bank Transfer,Other,False
+TXN01452,2024-04-27,Credit Card,Expense,Groceries,1312.71,Bank Transfer,Pune,True
+TXN01453,2025-03-30,Bank,Expense,Dining,1784.15,UPI,Mumbai,False
+TXN01454,2024-12-19,UPI Wallet,Income,Freelance,55491.76,Bank Transfer,Pune,False
+TXN01455,2025-06-15,Bank,Expense,Dining,912.96,Bank Transfer,Hyderabad,False
+TXN01456,2025-12-25,Bank,Expense,Groceries,1916.51,Card,Hyderabad,True
+TXN01457,2024-06-19,Credit Card,Income,Salary,31314.24,Bank Transfer,Delhi,False
+TXN01458,2025-06-01,Credit Card,Expense,Utilities,709.58,Auto-debit,Other,True
+TXN01459,2025-11-13,Credit Card,Income,Interest,14911.02,UPI,Pune,False
+TXN01460,2024-01-18,UPI Wallet,Expense,Travel,7495.5,Cash,Hyderabad,False
+TXN01461,2025-08-13,Credit Card,Income,Interest,11437.38,Cash,Pune,False
+TXN01462,2024-02-14,Bank,Expense,Groceries,1934.61,Auto-debit,Bengaluru,True
+TXN01463,2024-05-02,Bank,Expense,Groceries,424.44,Card,Bengaluru,True
+TXN01464,2025-06-18,UPI Wallet,Expense,Education,14452.17,Bank Transfer,Hyderabad,True
+TXN01465,2025-10-11,Credit Card,Expense,Travel,14573.8,Bank Transfer,Hyderabad,False
+TXN01466,2025-07-19,Bank,Expense,Subscriptions,667.27,Auto-debit,Other,False
+TXN01467,2024-05-18,Bank,Income,Salary,49654.36,UPI,Hyderabad,False
+TXN01468,2025-08-22,Bank,Expense,Subscriptions,271.6,Card,Bengaluru,False
+TXN01469,2024-07-30,UPI Wallet,Expense,Travel,11636.69,Card,Pune,False
+TXN01470,2024-08-01,Bank,Expense,Utilities,3465.66,Card,Mumbai,True
+TXN01471,2025-08-02,Credit Card,Income,Freelance,54474.81,Auto-debit,Delhi,False
+TXN01472,2025-08-12,Bank,Income,Business Income,35966.64,Bank Transfer,Delhi,False
+TXN01473,2025-07-31,UPI Wallet,Expense,Healthcare,3359.13,Cash,Other,True
+TXN01474,2025-12-26,Bank,Expense,Rent,15717.03,Bank Transfer,Delhi,True
+TXN01475,2024-06-28,Bank,Expense,Travel,13977.0,Cash,Mumbai,False
+TXN01476,2025-02-25,Bank,Expense,Shopping,558.29,UPI,Other,False
+TXN01477,2025-02-19,Bank,Expense,Utilities,779.55,Card,Pune,True
+TXN01478,2025-03-13,Credit Card,Expense,Travel,5367.8,Bank Transfer,Hyderabad,False
+TXN01479,2025-12-23,Bank,Expense,Healthcare,5408.52,Card,Mumbai,True
+TXN01480,2024-06-27,Credit Card,Expense,Transport,2118.99,UPI,Pune,True
+TXN01481,2024-05-14,Bank,Expense,Groceries,1955.9,Cash,Other,True
+TXN01482,2024-06-06,Bank,Expense,Subscriptions,1466.41,UPI,Pune,False
+TXN01483,2024-03-10,Bank,Expense,Shopping,157.92,Auto-debit,Pune,False
+TXN01484,2024-01-06,UPI Wallet,Income,Salary,55711.49,Card,Other,False
+TXN01485,2024-08-15,Credit Card,Expense,Subscriptions,1367.39,Bank Transfer,Mumbai,False
+TXN01486,2024-06-06,UPI Wallet,Expense,Subscriptions,846.07,Auto-debit,Hyderabad,False
+TXN01487,2025-11-24,UPI Wallet,Expense,Subscriptions,1122.23,Card,Pune,False
+TXN01488,2024-04-20,UPI Wallet,Expense,Subscriptions,218.04,UPI,Delhi,False
+TXN01489,2024-08-24,Bank,Expense,Subscriptions,1263.7,Bank Transfer,Delhi,False
+TXN01490,2025-04-29,UPI Wallet,Expense,Rent,7033.25,Card,Pune,True
+TXN01491,2025-04-14,UPI Wallet,Expense,Healthcare,5306.27,Cash,Bengaluru,True
+TXN01492,2024-01-31,Bank,Expense,Education,10748.25,Cash,Delhi,True
+TXN01493,2025-01-13,UPI Wallet,Expense,Rent,5010.88,Auto-debit,Mumbai,True
+TXN01494,2025-12-08,UPI Wallet,Expense,Healthcare,5673.51,UPI,Other,True
+TXN01495,2024-05-31,UPI Wallet,Expense,Shopping,346.22,UPI,Hyderabad,False
+TXN01496,2025-11-03,Bank,Expense,Dining,2801.04,UPI,Bengaluru,False
+TXN01497,2025-09-14,Credit Card,Expense,Rent,9503.25,UPI,Hyderabad,True
+TXN01498,2024-08-18,UPI Wallet,Expense,Shopping,4845.53,UPI,Mumbai,False
+TXN01499,2024-10-08,Bank,Expense,Groceries,2549.81,Card,Other,True
+TXN01500,2025-10-28,Credit Card,Expense,Shopping,7366.69,Auto-debit,Delhi,False
+TXN01501,2025-02-27,Cash,Expense,Utilities,3491.28,UPI,Delhi,True
+TXN01502,2024-12-15,Bank,Expense,Groceries,843.8,UPI,Bengaluru,True
+TXN01503,2024-12-22,UPI Wallet,Expense,Travel,18748.88,Card,Other,False
+TXN01504,2025-09-20,Bank,Expense,Shopping,8956.3,Cash,Bengaluru,False
+TXN01505,2024-04-09,UPI Wallet,Expense,Transport,241.33,Cash,Delhi,True
+TXN01506,2025-05-18,Bank,Income,Salary,19955.08,UPI,Delhi,False
+TXN01507,2024-01-28,Credit Card,Expense,Shopping,9265.94,UPI,Pune,False
+TXN01508,2024-03-08,Cash,Expense,Subscriptions,977.17,Auto-debit,Hyderabad,False
+TXN01509,2024-04-17,Bank,Expense,Shopping,2474.65,Auto-debit,Bengaluru,False
+TXN01510,2025-06-05,Credit Card,Expense,Transport,964.26,Cash,Delhi,True
+TXN01511,2025-09-14,Bank,Expense,Education,10127.68,UPI,Bengaluru,True
+TXN01512,2025-04-12,Bank,Expense,Education,14872.66,Auto-debit,Other,True
+TXN01513,2024-10-22,Credit Card,Expense,Transport,1846.28,Cash,Other,True
+TXN01514,2025-08-12,UPI Wallet,Income,Freelance,29632.95,Auto-debit,Hyderabad,False
+TXN01515,2024-07-22,Bank,Expense,Groceries,2256.06,Cash,Bengaluru,True
+TXN01516,2025-07-13,Bank,Expense,Education,7323.49,Auto-debit,Pune,True
+TXN01517,2025-04-27,Bank,Expense,Rent,22422.67,UPI,Other,True
+TXN01518,2025-06-19,Credit Card,Expense,Dining,2255.36,UPI,Pune,False
+TXN01519,2024-07-20,Bank,Expense,Utilities,2484.96,Auto-debit,Pune,True
+TXN01520,2025-04-16,Bank,Income,Salary,41095.61,Bank Transfer,Delhi,False
+TXN01521,2024-05-14,Cash,Expense,Utilities,930.99,Cash,Bengaluru,True
+TXN01522,2025-09-19,UPI Wallet,Expense,Rent,18460.75,Cash,Mumbai,True
+TXN01523,2024-03-05,Credit Card,Expense,Shopping,1659.29,Auto-debit,Pune,False
+TXN01524,2025-07-23,UPI Wallet,Expense,Dining,172.0,UPI,Hyderabad,False
+TXN01525,2025-03-12,UPI Wallet,Income,Interest,51984.53,Card,Delhi,False
+TXN01526,2025-06-21,Cash,Expense,Subscriptions,926.38,Card,Other,False
+TXN01527,2024-02-21,Cash,Expense,Education,8621.45,Card,Bengaluru,True
+TXN01528,2024-03-30,Bank,Income,Business Income,2040.05,Bank Transfer,Pune,False
+TXN01529,2024-08-28,UPI Wallet,Expense,Rent,10726.5,Bank Transfer,Pune,True
+TXN01530,2025-12-11,UPI Wallet,Expense,Utilities,1903.8,Auto-debit,Other,True
+TXN01531,2024-11-30,Bank,Income,Business Income,4546.86,Card,Other,False
+TXN01532,2025-10-02,Bank,Income,Business Income,32906.02,Auto-debit,Other,False
+TXN01533,2024-08-14,UPI Wallet,Expense,Rent,24559.43,Bank Transfer,Bengaluru,True
+TXN01534,2025-01-26,Bank,Income,Business Income,26091.35,Auto-debit,Bengaluru,False
+TXN01535,2024-11-12,Cash,Income,Business Income,40092.58,Auto-debit,Pune,False
+TXN01536,2025-10-19,Bank,Income,Salary,44407.43,Card,Delhi,False
+TXN01537,2024-10-21,UPI Wallet,Expense,Shopping,9862.7,Cash,Other,False
+TXN01538,2025-01-28,Credit Card,Expense,Healthcare,7912.32,Cash,Hyderabad,True
+TXN01539,2024-08-04,UPI Wallet,Expense,Healthcare,3722.72,Bank Transfer,Pune,True
+TXN01540,2025-02-06,UPI Wallet,Expense,Education,13389.07,UPI,Delhi,True
+TXN01541,2025-03-02,UPI Wallet,Expense,Healthcare,7219.76,Auto-debit,Bengaluru,True
+TXN01542,2025-09-07,Bank,Expense,Shopping,3492.38,Auto-debit,Other,False
+TXN01543,2025-01-29,UPI Wallet,Income,Freelance,53157.74,Card,Other,False
+TXN01544,2024-10-09,Cash,Expense,Education,4383.71,Bank Transfer,Delhi,True
+TXN01545,2025-03-17,Credit Card,Income,Interest,55829.65,Bank Transfer,Hyderabad,False
+TXN01546,2025-06-09,Bank,Expense,Shopping,5613.36,Cash,Pune,False
+TXN01547,2024-08-06,Cash,Income,Business Income,5834.07,Card,Bengaluru,False
+TXN01548,2025-08-10,Credit Card,Expense,Groceries,1185.23,Auto-debit,Mumbai,True
+TXN01549,2024-09-22,Bank,Income,Interest,11860.01,UPI,Mumbai,False
+TXN01550,2025-10-19,Cash,Expense,Groceries,1278.89,Bank Transfer,Delhi,True
+TXN01551,2024-09-26,UPI Wallet,Expense,Healthcare,10820.25,Bank Transfer,Hyderabad,True
+TXN01552,2025-04-02,Cash,Expense,Travel,15930.71,Card,Bengaluru,False
+TXN01553,2024-08-11,UPI Wallet,Income,Freelance,30508.49,Bank Transfer,Pune,False
+TXN01554,2024-07-29,Bank,Expense,Subscriptions,1322.01,Card,Pune,False
+TXN01555,2024-03-27,Bank,Expense,Dining,571.54,Card,Mumbai,False
+TXN01556,2025-07-25,UPI Wallet,Expense,Shopping,6458.23,UPI,Bengaluru,False
+TXN01557,2024-12-10,Bank,Expense,Groceries,3389.67,Bank Transfer,Pune,True
+TXN01558,2024-03-08,Credit Card,Expense,Groceries,864.65,Cash,Pune,True
+TXN01559,2024-07-05,Bank,Expense,Shopping,6673.35,Auto-debit,Hyderabad,False
+TXN01560,2025-04-19,Bank,Expense,Dining,201.06,Auto-debit,Bengaluru,False
+TXN01561,2025-06-18,UPI Wallet,Expense,Dining,368.89,Cash,Delhi,False
+TXN01562,2025-06-01,UPI Wallet,Expense,Education,7402.28,Auto-debit,Bengaluru,True
+TXN01563,2025-11-20,Bank,Expense,Travel,3356.3,Card,Mumbai,False
+TXN01564,2025-10-02,Bank,Expense,Healthcare,11567.37,Auto-debit,Other,True
+TXN01565,2024-10-03,Credit Card,Expense,Transport,1230.1,Auto-debit,Bengaluru,True
+TXN01566,2024-10-15,Bank,Expense,Education,6498.86,Card,Other,True
+TXN01567,2024-06-20,Bank,Expense,Shopping,3916.22,Cash,Other,False
+TXN01568,2025-07-05,Cash,Expense,Education,10618.3,UPI,Delhi,True
+TXN01569,2025-06-15,Bank,Income,Salary,58457.53,Card,Other,False
+TXN01570,2025-02-16,Credit Card,Expense,Shopping,7655.29,Card,Pune,False
+TXN01571,2025-06-08,UPI Wallet,Expense,Travel,6217.73,Cash,Hyderabad,False
+TXN01572,2025-04-04,Cash,Expense,Healthcare,9313.97,Cash,Mumbai,True
+TXN01573,2025-08-10,UPI Wallet,Expense,Dining,407.36,Card,Delhi,False
+TXN01574,2025-05-15,Credit Card,Expense,Rent,14468.71,Cash,Delhi,True
+TXN01575,2025-02-24,Cash,Expense,Groceries,2308.53,UPI,Delhi,True
+TXN01576,2024-04-24,Bank,Expense,Healthcare,5150.05,Cash,Delhi,True
+TXN01577,2025-01-06,Bank,Expense,Shopping,6196.36,Auto-debit,Pune,False
+TXN01578,2025-06-24,UPI Wallet,Expense,Subscriptions,1169.21,UPI,Other,False
+TXN01579,2025-12-10,Credit Card,Expense,Transport,2145.78,Cash,Mumbai,True
+TXN01580,2024-03-10,UPI Wallet,Expense,Rent,10286.45,Cash,Hyderabad,True
+TXN01581,2024-07-01,Credit Card,Income,Freelance,32911.12,Card,Other,False
+TXN01582,2025-12-13,Bank,Expense,Travel,6884.06,Card,Other,False
+TXN01583,2025-12-21,Bank,Expense,Education,8175.33,Card,Pune,True
+TXN01584,2024-04-14,Bank,Expense,Rent,7475.71,Card,Delhi,True
+TXN01585,2024-07-26,Bank,Expense,Transport,2446.08,Card,Delhi,True
+TXN01586,2025-12-21,Bank,Expense,Groceries,3546.37,Cash,Other,True
+TXN01587,2024-02-23,Bank,Expense,Utilities,1324.7,Card,Hyderabad,True
+TXN01588,2024-07-02,Bank,Expense,Shopping,4509.75,Auto-debit,Hyderabad,False
+TXN01589,2025-11-05,Bank,Expense,Shopping,6684.63,Bank Transfer,Hyderabad,False
+TXN01590,2024-10-24,UPI Wallet,Expense,Healthcare,10898.5,Bank Transfer,Mumbai,True
+TXN01591,2025-08-26,Credit Card,Income,Salary,58382.5,Auto-debit,Other,False
+TXN01592,2025-02-21,Cash,Expense,Travel,13545.33,UPI,Delhi,False
+TXN01593,2024-07-23,Bank,Expense,Transport,2404.27,Bank Transfer,Hyderabad,True
+TXN01594,2024-12-16,UPI Wallet,Expense,Education,11527.73,Card,Hyderabad,True
+TXN01595,2025-03-16,UPI Wallet,Expense,Shopping,2373.49,Auto-debit,Pune,False
+TXN01596,2025-05-31,Credit Card,Expense,Shopping,5849.72,Auto-debit,Delhi,False
+TXN01597,2024-12-27,UPI Wallet,Expense,Education,9158.04,Auto-debit,Bengaluru,True
+TXN01598,2025-05-09,Bank,Expense,Groceries,3287.4,Cash,Delhi,True
+TXN01599,2024-04-08,Bank,Expense,Travel,17362.65,Card,Bengaluru,False
+TXN01600,2024-09-25,UPI Wallet,Expense,Transport,1462.68,Auto-debit,Other,True
+TXN01601,2025-07-07,Credit Card,Expense,Subscriptions,586.32,Bank Transfer,Delhi,False
+TXN01602,2025-07-14,Bank,Expense,Shopping,3404.11,Bank Transfer,Pune,False
+TXN01603,2025-08-18,UPI Wallet,Expense,Healthcare,10903.36,Bank Transfer,Delhi,True
+TXN01604,2024-12-23,Bank,Expense,Shopping,5914.51,Bank Transfer,Pune,False
+TXN01605,2025-02-23,Cash,Expense,Dining,1793.86,Auto-debit,Mumbai,False
+TXN01606,2025-03-28,Cash,Expense,Utilities,2489.65,Bank Transfer,Pune,True
+TXN01607,2024-03-12,Credit Card,Expense,Groceries,2257.05,Auto-debit,Bengaluru,True
+TXN01608,2025-05-30,Credit Card,Expense,Rent,12590.04,Auto-debit,Bengaluru,True
+TXN01609,2024-06-11,Cash,Expense,Transport,1868.08,Card,Pune,True
+TXN01610,2025-03-25,Bank,Expense,Education,13561.66,Auto-debit,Bengaluru,True
+TXN01611,2025-09-23,UPI Wallet,Income,Interest,62005.09,Card,Mumbai,False
+TXN01612,2024-02-27,Bank,Expense,Subscriptions,864.76,Bank Transfer,Other,False
+TXN01613,2024-09-09,UPI Wallet,Expense,Groceries,4198.76,Auto-debit,Delhi,True
+TXN01614,2025-07-06,Bank,Expense,Dining,1693.61,Auto-debit,Bengaluru,False
+TXN01615,2024-03-16,UPI Wallet,Expense,Dining,1720.13,UPI,Mumbai,False
+TXN01616,2024-12-13,Bank,Expense,Education,9664.03,Cash,Other,True
+TXN01617,2025-06-21,Credit Card,Expense,Utilities,917.66,Bank Transfer,Pune,True
+TXN01618,2024-04-05,Credit Card,Expense,Travel,5965.01,Cash,Bengaluru,False
+TXN01619,2025-12-08,Cash,Expense,Dining,1643.86,Auto-debit,Pune,False
+TXN01620,2024-05-19,Bank,Income,Interest,49922.37,Auto-debit,Pune,False
+TXN01621,2025-05-30,Credit Card,Expense,Utilities,2347.67,UPI,Hyderabad,True
+TXN01622,2024-06-11,Bank,Expense,Groceries,3408.25,UPI,Hyderabad,True
+TXN01623,2024-10-22,Bank,Expense,Transport,1285.75,Cash,Mumbai,True
+TXN01624,2025-10-10,Credit Card,Expense,Groceries,2037.07,UPI,Delhi,True
+TXN01625,2025-12-24,Bank,Expense,Education,9130.26,Cash,Pune,True
+TXN01626,2025-03-16,Credit Card,Expense,Transport,273.94,UPI,Bengaluru,True
+TXN01627,2024-05-27,Credit Card,Expense,Education,496.9,Cash,Bengaluru,True
+TXN01628,2024-02-10,UPI Wallet,Expense,Groceries,2062.05,Bank Transfer,Pune,True
+TXN01629,2025-05-22,UPI Wallet,Income,Business Income,23367.42,Auto-debit,Delhi,False
+TXN01630,2025-08-09,Credit Card,Expense,Shopping,8946.48,Auto-debit,Mumbai,False
+TXN01631,2024-10-10,Credit Card,Expense,Groceries,576.34,Card,Mumbai,True
+TXN01632,2025-05-24,Bank,Expense,Subscriptions,998.72,UPI,Delhi,False
+TXN01633,2024-06-04,UPI Wallet,Expense,Subscriptions,1321.61,Bank Transfer,Hyderabad,False
+TXN01634,2025-01-11,UPI Wallet,Expense,Dining,1935.89,Bank Transfer,Bengaluru,False
+TXN01635,2024-03-18,Credit Card,Expense,Dining,532.05,Bank Transfer,Pune,False
+TXN01636,2025-08-26,Credit Card,Expense,Transport,2124.01,Cash,Other,True
+TXN01637,2025-09-09,UPI Wallet,Expense,Transport,2418.78,Cash,Other,True
+TXN01638,2025-07-15,Bank,Income,Business Income,36659.29,Cash,Bengaluru,False
+TXN01639,2024-01-08,UPI Wallet,Income,Freelance,17947.4,Auto-debit,Bengaluru,False
+TXN01640,2025-01-02,UPI Wallet,Expense,Groceries,3980.7,Card,Pune,True
+TXN01641,2024-12-16,UPI Wallet,Expense,Utilities,2667.45,Bank Transfer,Hyderabad,True
+TXN01642,2025-06-22,Cash,Expense,Transport,1158.71,Card,Other,True
+TXN01643,2025-07-06,Cash,Income,Freelance,50726.88,Cash,Hyderabad,False
+TXN01644,2024-01-17,UPI Wallet,Expense,Education,802.8,UPI,Delhi,True
+TXN01645,2025-10-27,Cash,Expense,Rent,12157.36,Cash,Bengaluru,True
+TXN01646,2025-01-02,Bank,Expense,Shopping,3758.42,UPI,Mumbai,False
+TXN01647,2024-03-05,Bank,Expense,Subscriptions,110.4,UPI,Delhi,False
+TXN01648,2024-09-27,UPI Wallet,Expense,Travel,1926.46,UPI,Delhi,False
+TXN01649,2025-06-11,UPI Wallet,Expense,Shopping,2576.32,Cash,Mumbai,False
+TXN01650,2024-06-17,Credit Card,Expense,Education,9212.46,Bank Transfer,Mumbai,True
+TXN01651,2025-01-10,Bank,Income,Freelance,44071.36,Bank Transfer,Delhi,False
+TXN01652,2024-12-02,UPI Wallet,Expense,Travel,13529.04,Cash,Pune,False
+TXN01653,2024-09-18,UPI Wallet,Expense,Groceries,1604.89,UPI,Mumbai,True
+TXN01654,2024-10-13,UPI Wallet,Expense,Groceries,377.22,Cash,Delhi,True
+TXN01655,2025-02-13,Bank,Expense,Dining,2769.2,Bank Transfer,Pune,False
+TXN01656,2024-05-15,UPI Wallet,Expense,Healthcare,1226.63,Cash,Delhi,True
+TXN01657,2025-04-27,UPI Wallet,Expense,Education,13524.32,Bank Transfer,Other,True
+TXN01658,2025-12-31,UPI Wallet,Expense,Subscriptions,926.61,UPI,Delhi,False
+TXN01659,2025-07-02,UPI Wallet,Expense,Healthcare,7133.68,UPI,Delhi,True
+TXN01660,2024-02-08,UPI Wallet,Expense,Healthcare,3859.83,Bank Transfer,Delhi,True
+TXN01661,2024-11-01,Bank,Expense,Travel,13000.57,UPI,Pune,False
+TXN01662,2025-09-04,Bank,Income,Salary,15894.78,Card,Bengaluru,False
+TXN01663,2025-05-24,Bank,Expense,Transport,844.48,Auto-debit,Pune,True
+TXN01664,2025-07-05,UPI Wallet,Expense,Shopping,3427.41,Cash,Mumbai,False
+TXN01665,2025-04-19,Credit Card,Expense,Groceries,484.08,Auto-debit,Bengaluru,True
+TXN01666,2024-02-24,Credit Card,Expense,Education,7646.67,Auto-debit,Bengaluru,True
+TXN01667,2025-06-13,UPI Wallet,Expense,Education,3426.44,Auto-debit,Other,True
+TXN01668,2024-09-06,UPI Wallet,Expense,Subscriptions,837.08,Cash,Hyderabad,False
+TXN01669,2024-01-24,Cash,Expense,Shopping,7063.97,Bank Transfer,Other,False
+TXN01670,2025-03-25,Cash,Income,Freelance,23027.01,Card,Hyderabad,False
+TXN01671,2025-04-03,Cash,Expense,Subscriptions,271.1,Cash,Hyderabad,False
+TXN01672,2024-04-23,Bank,Expense,Travel,11643.11,Card,Bengaluru,False
+TXN01673,2025-06-30,UPI Wallet,Expense,Transport,2218.3,Cash,Hyderabad,True
+TXN01674,2025-06-27,Credit Card,Expense,Transport,614.6,Bank Transfer,Pune,True
+TXN01675,2024-10-03,Bank,Expense,Healthcare,8030.47,Card,Delhi,True
+TXN01676,2024-09-13,UPI Wallet,Expense,Subscriptions,1261.77,Auto-debit,Bengaluru,False
+TXN01677,2025-10-04,Bank,Expense,Rent,11634.39,Auto-debit,Pune,True
+TXN01678,2024-04-13,UPI Wallet,Expense,Groceries,3037.71,Cash,Delhi,True
+TXN01679,2025-04-26,UPI Wallet,Expense,Subscriptions,454.44,Card,Other,False
+TXN01680,2025-05-20,Bank,Expense,Transport,1784.13,UPI,Mumbai,True
+TXN01681,2024-06-24,UPI Wallet,Expense,Dining,925.9,Cash,Mumbai,False
+TXN01682,2024-07-02,Bank,Expense,Transport,1345.29,Cash,Bengaluru,True
+TXN01683,2025-01-17,Cash,Expense,Transport,935.63,Bank Transfer,Mumbai,True
+TXN01684,2024-09-13,Bank,Expense,Shopping,486.28,UPI,Other,False
+TXN01685,2024-03-12,UPI Wallet,Expense,Utilities,1060.39,Auto-debit,Delhi,True
+TXN01686,2024-11-13,Bank,Expense,Shopping,5672.41,Card,Pune,False
+TXN01687,2025-06-21,UPI Wallet,Expense,Subscriptions,141.77,UPI,Bengaluru,False
+TXN01688,2024-11-11,UPI Wallet,Expense,Dining,440.98,Card,Delhi,False
+TXN01689,2025-06-30,Cash,Expense,Groceries,3327.07,Bank Transfer,Mumbai,True
+TXN01690,2025-07-31,UPI Wallet,Expense,Dining,1973.87,Cash,Delhi,False
+TXN01691,2025-03-02,Bank,Expense,Utilities,2389.48,Auto-debit,Mumbai,True
+TXN01692,2025-04-17,Credit Card,Expense,Subscriptions,1142.46,Auto-debit,Mumbai,False
+TXN01693,2024-02-18,UPI Wallet,Expense,Dining,354.62,Card,Hyderabad,False
+TXN01694,2025-09-15,Bank,Expense,Transport,153.49,Card,Other,True
+TXN01695,2024-04-24,UPI Wallet,Expense,Dining,1020.27,Auto-debit,Pune,False
+TXN01696,2025-07-17,Bank,Expense,Travel,10267.48,Cash,Delhi,False
+TXN01697,2025-07-16,UPI Wallet,Income,Salary,41684.3,Auto-debit,Pune,False
+TXN01698,2025-11-15,UPI Wallet,Expense,Subscriptions,161.87,Bank Transfer,Other,False
+TXN01699,2024-09-01,Bank,Expense,Transport,1915.7,Card,Delhi,True
+TXN01700,2024-09-12,UPI Wallet,Expense,Travel,10057.12,Cash,Other,False
+TXN01701,2024-07-01,Bank,Expense,Travel,10046.97,Auto-debit,Delhi,False
+TXN01702,2025-02-27,Credit Card,Expense,Transport,171.76,UPI,Pune,True
+TXN01703,2024-06-03,Cash,Expense,Transport,1968.39,UPI,Delhi,True
+TXN01704,2025-09-07,Bank,Income,Business Income,2902.26,Bank Transfer,Pune,False
+TXN01705,2025-04-29,Bank,Income,Salary,19537.89,Auto-debit,Hyderabad,False
+TXN01706,2025-08-20,Bank,Expense,Rent,21573.11,Auto-debit,Delhi,True
+TXN01707,2024-12-17,UPI Wallet,Income,Salary,50931.63,Card,Mumbai,False
+TXN01708,2025-08-14,Credit Card,Expense,Rent,14984.67,Card,Bengaluru,True
+TXN01709,2024-03-18,Bank,Expense,Travel,2158.27,Card,Hyderabad,False
+TXN01710,2024-11-10,Bank,Income,Business Income,21968.06,Cash,Delhi,False
+TXN01711,2025-03-30,Credit Card,Expense,Utilities,1353.07,Cash,Hyderabad,True
+TXN01712,2024-12-21,UPI Wallet,Expense,Travel,17687.85,Cash,Pune,False
+TXN01713,2025-06-26,Bank,Income,Interest,58190.09,Cash,Hyderabad,False
+TXN01714,2024-02-28,Bank,Expense,Travel,10104.02,Auto-debit,Delhi,False
+TXN01715,2025-08-08,Bank,Expense,Rent,18937.1,Auto-debit,Mumbai,True
+TXN01716,2024-05-07,Bank,Expense,Education,10790.51,Card,Pune,True
+TXN01717,2024-04-01,UPI Wallet,Income,Business Income,32490.34,Cash,Mumbai,False
+TXN01718,2024-11-18,Bank,Expense,Dining,2791.04,Auto-debit,Mumbai,False
+TXN01719,2025-08-07,Bank,Expense,Education,4067.14,Auto-debit,Delhi,True
+TXN01720,2024-08-15,Credit Card,Expense,Utilities,982.53,Card,Bengaluru,True
+TXN01721,2025-09-03,Bank,Expense,Healthcare,3659.43,Card,Mumbai,True
+TXN01722,2024-06-25,Credit Card,Expense,Dining,178.62,Bank Transfer,Mumbai,False
+TXN01723,2025-07-31,UPI Wallet,Expense,Education,6485.18,Bank Transfer,Pune,True
+TXN01724,2024-04-19,UPI Wallet,Expense,Groceries,593.81,Bank Transfer,Hyderabad,True
+TXN01725,2025-05-20,Cash,Expense,Rent,18309.0,Auto-debit,Delhi,True
+TXN01726,2025-07-04,UPI Wallet,Expense,Transport,886.78,Cash,Pune,True
+TXN01727,2024-03-18,Bank,Expense,Education,8954.65,Bank Transfer,Other,True
+TXN01728,2025-08-15,Credit Card,Income,Interest,46420.98,Card,Hyderabad,False
+TXN01729,2025-04-01,UPI Wallet,Expense,Education,4024.06,UPI,Pune,True
+TXN01730,2024-12-24,Credit Card,Income,Interest,63161.49,Card,Mumbai,False
+TXN01731,2025-10-26,Bank,Expense,Utilities,2489.97,Auto-debit,Bengaluru,True
+TXN01732,2025-08-26,Bank,Expense,Shopping,2605.05,Auto-debit,Bengaluru,False
+TXN01733,2024-09-22,Cash,Expense,Travel,9887.91,Auto-debit,Delhi,False
+TXN01734,2025-10-30,UPI Wallet,Expense,Transport,1504.05,Cash,Delhi,True
+TXN01735,2025-10-09,UPI Wallet,Expense,Shopping,7796.01,UPI,Delhi,False
+TXN01736,2024-04-21,UPI Wallet,Expense,Shopping,2784.23,Bank Transfer,Bengaluru,False
+TXN01737,2025-04-08,UPI Wallet,Expense,Shopping,8334.72,UPI,Pune,False
+TXN01738,2025-08-30,Credit Card,Expense,Healthcare,10348.32,UPI,Pune,True
+TXN01739,2024-04-04,Bank,Expense,Transport,945.41,Card,Hyderabad,True
+TXN01740,2024-01-21,Cash,Expense,Shopping,5708.56,Auto-debit,Bengaluru,False
+TXN01741,2025-07-09,Bank,Expense,Subscriptions,864.08,Bank Transfer,Hyderabad,False
+TXN01742,2024-03-23,UPI Wallet,Expense,Subscriptions,1409.8,Cash,Mumbai,False
+TXN01743,2024-08-22,Cash,Expense,Groceries,1252.63,Cash,Hyderabad,True
+TXN01744,2024-10-27,UPI Wallet,Expense,Shopping,8590.24,Auto-debit,Other,False
+TXN01745,2025-09-20,UPI Wallet,Expense,Utilities,1744.21,Auto-debit,Pune,True
+TXN01746,2025-05-05,Cash,Expense,Education,5148.51,Card,Pune,True
+TXN01747,2024-07-22,Bank,Income,Salary,28784.07,Auto-debit,Delhi,False
+TXN01748,2024-12-23,UPI Wallet,Income,Business Income,33873.58,UPI,Hyderabad,False
+TXN01749,2024-12-12,Cash,Expense,Education,13334.71,Bank Transfer,Bengaluru,True
+TXN01750,2024-06-01,UPI Wallet,Income,Freelance,28855.17,Cash,Delhi,False
+TXN01751,2024-11-28,UPI Wallet,Income,Freelance,37245.19,Cash,Mumbai,False
+TXN01752,2025-04-06,Cash,Expense,Groceries,649.51,Cash,Hyderabad,True
+TXN01753,2024-04-05,Credit Card,Expense,Rent,15762.68,Auto-debit,Bengaluru,True
+TXN01754,2025-09-27,Cash,Expense,Dining,2903.69,Auto-debit,Other,False
+TXN01755,2025-05-17,UPI Wallet,Expense,Healthcare,7445.47,Cash,Delhi,True
+TXN01756,2025-08-04,Bank,Expense,Travel,15063.86,UPI,Other,False
+TXN01757,2025-01-17,Cash,Expense,Healthcare,11561.72,UPI,Pune,True
+TXN01758,2024-08-04,Credit Card,Expense,Utilities,650.32,Bank Transfer,Hyderabad,True
+TXN01759,2025-06-13,UPI Wallet,Income,Freelance,6450.63,Cash,Pune,False
+TXN01760,2025-10-21,Bank,Expense,Shopping,232.45,UPI,Pune,False
+TXN01761,2024-04-30,Credit Card,Expense,Travel,9009.74,UPI,Bengaluru,False
+TXN01762,2024-10-09,UPI Wallet,Expense,Shopping,4380.92,Bank Transfer,Delhi,False
+TXN01763,2025-11-11,Bank,Expense,Utilities,3461.08,Auto-debit,Other,True
+TXN01764,2025-10-18,UPI Wallet,Expense,Transport,2309.05,Auto-debit,Delhi,True
+TXN01765,2025-09-22,Cash,Expense,Education,6588.08,UPI,Bengaluru,True
+TXN01766,2024-03-16,UPI Wallet,Income,Interest,55211.38,Cash,Hyderabad,False
+TXN01767,2024-04-03,Credit Card,Expense,Education,1159.68,Cash,Pune,True
+TXN01768,2025-11-14,UPI Wallet,Expense,Dining,2009.19,Card,Delhi,False
+TXN01769,2025-09-24,UPI Wallet,Income,Interest,19139.49,Auto-debit,Bengaluru,False
+TXN01770,2024-09-11,UPI Wallet,Expense,Rent,7468.07,Cash,Delhi,True
+TXN01771,2024-08-12,Bank,Expense,Groceries,2171.3,Auto-debit,Pune,True
+TXN01772,2024-11-16,Bank,Expense,Healthcare,7752.09,Bank Transfer,Delhi,True
+TXN01773,2024-01-06,Credit Card,Expense,Subscriptions,1299.77,Card,Bengaluru,False
+TXN01774,2025-09-04,Bank,Expense,Education,7379.24,Bank Transfer,Delhi,True
+TXN01775,2025-10-02,UPI Wallet,Expense,Utilities,702.06,Card,Hyderabad,True
+TXN01776,2025-05-19,Bank,Expense,Utilities,2101.85,UPI,Bengaluru,True
+TXN01777,2024-05-10,Cash,Expense,Travel,2336.1,UPI,Mumbai,False
+TXN01778,2025-02-09,Bank,Expense,Shopping,4414.92,Cash,Hyderabad,False
+TXN01779,2024-10-30,UPI Wallet,Expense,Rent,16440.5,Cash,Hyderabad,True
+TXN01780,2025-05-11,UPI Wallet,Expense,Rent,8360.34,Cash,Pune,True
+TXN01781,2024-02-11,Bank,Expense,Dining,623.92,Card,Bengaluru,False
+TXN01782,2025-01-15,Bank,Income,Interest,2630.04,UPI,Pune,False
+TXN01783,2025-08-08,Cash,Expense,Travel,17784.29,Auto-debit,Bengaluru,False
+TXN01784,2024-01-20,Bank,Expense,Education,4403.41,UPI,Hyderabad,True
+TXN01785,2025-11-29,UPI Wallet,Expense,Dining,901.39,Auto-debit,Mumbai,False
+TXN01786,2024-12-09,Bank,Expense,Subscriptions,945.09,Bank Transfer,Delhi,False
+TXN01787,2024-02-01,UPI Wallet,Expense,Rent,9482.2,Bank Transfer,Bengaluru,True
+TXN01788,2025-03-17,Bank,Expense,Groceries,2756.52,Bank Transfer,Bengaluru,True
+TXN01789,2025-05-14,UPI Wallet,Expense,Healthcare,1487.89,Cash,Hyderabad,True
+TXN01790,2024-04-06,UPI Wallet,Income,Freelance,37814.2,UPI,Bengaluru,False
+TXN01791,2024-12-14,UPI Wallet,Expense,Dining,1806.84,UPI,Bengaluru,False
+TXN01792,2024-06-14,Bank,Expense,Shopping,2045.44,Auto-debit,Pune,False
+TXN01793,2025-10-30,UPI Wallet,Expense,Healthcare,5639.54,UPI,Mumbai,True
+TXN01794,2024-06-16,Bank,Expense,Shopping,7139.34,Cash,Other,False
+TXN01795,2024-03-29,Cash,Expense,Rent,17380.73,UPI,Pune,True
+TXN01796,2025-01-30,Credit Card,Expense,Healthcare,2956.29,Card,Mumbai,True
+TXN01797,2025-10-26,Bank,Expense,Rent,14837.94,Cash,Bengaluru,True
+TXN01798,2024-06-13,UPI Wallet,Expense,Travel,13644.99,Auto-debit,Hyderabad,False
+TXN01799,2025-10-14,Cash,Expense,Subscriptions,1205.73,UPI,Delhi,False
+TXN01800,2024-06-15,Bank,Income,Freelance,57400.59,Bank Transfer,Pune,False
